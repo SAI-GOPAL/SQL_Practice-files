@@ -1,0 +1,14 @@
+year,year_rank,group_name,artist,song_name,id
+1993,11,Dr. Dre,Dr. Dre,"Nuthin' But A ""G"" Thang",3815
+1993,53,Dr. Dre,Dr. Dre,Dre Day,3860
+1995,53,Dr. Dre,Dr. Dre,Keep Their Heads Ringin',4066
+1996,42,BLACKstreet (feat. Dr. Dre),BLACKstreet (feat. Dr. Dre),No Diggity,4159
+1997,23,BLACKstreet feat. Dr. Dre,BLACKstreet,No Diggity,4246
+1997,23,BLACKstreet feat. Dr. Dre,Dr. Dre,No Diggity,4247
+2000,73,Dr. Dre feat. Eminem,Dr. Dre,Forget About Dre,4644
+2000,73,Dr. Dre feat. Eminem,Eminem,Forget About Dre,4645
+2000,76,Dr. Dre feat. Snoop Dogg,Dr. Dre,The Next Episode,4648
+2000,76,Dr. Dre feat. Snoop Dogg,Snoop Dogg,The Next Episode,4649
+2011,51,Dr. Dre feat. Eminem and Skylar Grey,Dr. Dre,I Need A Doctor,6132
+2011,51,Dr. Dre feat. Eminem and Skylar Grey,Eminem,I Need A Doctor,6133
+2011,51,Dr. Dre feat. Eminem and Skylar Grey,Skylar Grey,I Need A Doctor,6134

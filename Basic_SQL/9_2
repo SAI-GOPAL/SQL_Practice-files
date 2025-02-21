@@ -1,0 +1,5 @@
+-- SQLite
+-- Write a query that returns all rows for which the first artist listed in the group has a name that begins with "DJ".
+
+
+select * from billboard_top_100_year_end where group_name like 'DJ%';

@@ -1,0 +1,3 @@
+-- SQLite
+-- Write a query that shows all of the rows for which song_name is null.
+select * from billboard_top_100_year_end where song_name is NULL or song_name = '';

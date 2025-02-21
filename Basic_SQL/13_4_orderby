@@ -1,0 +1,7 @@
+-- SQLite
+select * from billboard_top_100_year_end
+where 
+year in (1993, 2003, 2013) --filter by year(1993,2003,2013)
+and 
+(year_rank between 10 and 20) --filter by rank(10-20)
+order by year,year_rank

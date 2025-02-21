@@ -1,0 +1,41 @@
+year,year_rank,group_name,artist,song_name,id
+1956,1,Elvis Presley,Elvis Presley,Heartbreak Hotel,1
+1956,2,Elvis Presley,Elvis Presley,Don't Be Cruel,2
+1956,8,Elvis Presley,Elvis Presley,Hound Dog,8
+1956,14,Elvis Presley,Elvis Presley,"I Want You, I Need You, I Love You",14
+1956,15,Elvis Presley,Elvis Presley,Love Me Tender,15
+1957,1,Elvis Presley,Elvis Presley,All Shook Up,104
+1957,9,Elvis Presley,Elvis Presley,Too Much,112
+1957,14,Elvis Presley,Elvis Presley,Teddy Bear / Loving You,117
+1957,16,Elvis Presley,Elvis Presley,Jailhouse Rock,119
+1957,56,Elvis Presley,Elvis Presley,Love Me,159
+1957,98,Elvis Presley,Elvis Presley,Loving You,201
+1958,3,Elvis Presley,Elvis Presley,Don't / I Beg Of You,206
+1958,22,Elvis Presley,Elvis Presley,Wear My Ring Around Your Neck / Doncha' Think It's Time,225
+1958,49,Elvis Presley,Elvis Presley,Hard-Headed Woman / Don't Ask Me Why,253
+1958,55,Elvis Presley,Elvis Presley,One Night,259
+1958,65,Elvis Presley,Elvis Presley,I Got Stung,269
+1959,30,Elvis Presley,Elvis Presley,A Big Hunk O' Love,334
+1959,34,Elvis Presley,Elvis Presley,(Now And Then There's) A Fool Such As I,338
+1959,44,Elvis Presley,Elvis Presley,I Need Your Love Tonight,349
+1959,93,Elvis Presley,Elvis Presley,My Wish Came True,399
+1960,7,Elvis Presley,Elvis Presley,It's Now Or Never,413
+1960,9,Elvis Presley,Elvis Presley,Stuck On You,415
+1961,39,Elvis Presley,Elvis Presley,Little Sister,547
+1961,51,Elvis Presley,Elvis Presley,Surrender,559
+1961,71,Elvis Presley,Elvis Presley,(Marie's The Name) His Latest Flame,579
+1961,96,Elvis Presley,Elvis Presley,Are You Lonesome Tonight,604
+1962,20,Elvis Presley,Elvis Presley,Good Luck Charm,628
+1962,57,Elvis Presley,Elvis Presley,Can't Help Falling In Love,665
+1963,69,Elvis Presley,Elvis Presley,(You're The) Devil In Disguise,778
+1963,95,Elvis Presley,Elvis Presley,Bossa Nova Baby,804
+1965,9,Elvis Presley,Elvis Presley,Crying In The Chapel,920
+1969,18,Elvis Presley,Elvis Presley,Suspicious Minds,1335
+1969,35,Elvis Presley,Elvis Presley,In The Ghetto,1352
+1970,72,Elvis Presley,Elvis Presley,The Wonder Of You / Mama Liked The Roses,1489
+1972,48,Elvis Presley,Elvis Presley,Burning Love,1665
+1977,64,Elvis Presley,Elvis Presley,Way Down,2198
+1990,47,M.C. Hammer,M.C. Hammer,Have You Seen Her,3546
+1990,55,M.C. Hammer,M.C. Hammer,U Can't Touch This,3554
+1992,46,Hammer,Hammer,2 Legit 2 Quit,3750
+1992,76,Hammer,Hammer,Addams Groove,3780

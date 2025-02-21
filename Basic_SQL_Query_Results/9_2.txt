@@ -1,0 +1,14 @@
+year,year_rank,group_name,artist,song_name,id
+1997,96,DJ Kool,DJ Kool,Let Me Clear My Throat,4325
+2002,31,DJ Sammy and Yanou feat. Do,DJ Sammy,Heaven,4844
+2002,31,DJ Sammy and Yanou feat. Do,Yanou,Heaven,4845
+2002,31,DJ Sammy and Yanou feat. Do,Do,Heaven,4846
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",DJ Khaled,All I Do Is Win,6023
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",T-Pain,All I Do Is Win,6024
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",Ludacris,All I Do Is Win,6025
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",Snoop Dogg,All I Do Is Win,6026
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",Rick Ross,All I Do Is Win,6027
+2011,47,"DJ Khaled feat. Drake, Rick Ross and Lil Wayne",DJ Khaled,I'm On One,6123
+2011,47,"DJ Khaled feat. Drake, Rick Ross and Lil Wayne",Drake,I'm On One,6124
+2011,47,"DJ Khaled feat. Drake, Rick Ross and Lil Wayne",Rick Ross,I'm On One,6125
+2011,47,"DJ Khaled feat. Drake, Rick Ross and Lil Wayne",Lil Wayne,I'm On One,6126

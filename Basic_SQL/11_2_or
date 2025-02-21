@@ -1,0 +1,5 @@
+-- SQLite
+-- Write a query that returns all songs with titles that contain the word "California" in either the 1970s or 1990s.
+
+
+select * from billboard_top_100_year_end where song_name like '%California%' and (year like '197_' or year like '199_');

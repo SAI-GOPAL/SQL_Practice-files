@@ -1,0 +1,4 @@
+-- SQLite
+-- Write a query that returns all rows for which more units were produced in the West region than in the Midwest and Northeast combined.
+
+select * from housing_data where west>(midwest+northeast);

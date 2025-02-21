@@ -1,0 +1,10 @@
+-- SQLite
+select 
+year,
+month,
+month_name,
+south,
+west,
+midwest,
+northeast
+ from housing_data limit 5;

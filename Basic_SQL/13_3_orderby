@@ -1,0 +1,4 @@
+-- SQLite
+-- Write a query that shows all rows for which T-Pain was a group member, ordered by rank on the charts, from lowest to highest rank (from 100 to 1).
+
+select * from billboard_top_100_year_end where group_name like '%T-Pain%' order by year_rank desc;

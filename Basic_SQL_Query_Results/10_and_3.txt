@@ -1,0 +1,90 @@
+year,year_rank,group_name,artist,song_name,id
+1960,23,Paul Anka,Paul Anka,Puppy Love,429
+1960,45,Johnny Preston,Johnny Preston,Cradle Of Love,452
+1960,48,Ron Holden,Ron Holden,Love You So,455
+1960,65,Marv Johnson,Marv Johnson,I Love The Way You Love,472
+1960,67,Ray Peterson,Ray Peterson,Tell Laura I Love Her,474
+1960,91,Everly Brothers,Everly Brothers,When Will I Be Loved,499
+1961,14,Shirelles,Shirelles,Dedicated To The One I Love,522
+1961,16,Shirelles,Shirelles,Will You Love Me Tomorrow,524
+1961,30,Steve Lawrence,Steve Lawrence,Portrait Of My Love,538
+1961,52,Paris Sisters,Paris Sisters,I Love How You Love Me,560
+1961,85,Paul Anka,,"Tonight My Love, Tonight",593
+1962,19,Mary Wells,Mary Wells,The One Who Really Loves You,627
+1962,31,Connie Francis,Connie Francis,Don't Break The Heart That Loves You,639
+1962,34,Ketty Lester,Ketty Lester,Love Letters,642
+1962,41,Clyde Mcphatter,Clyde Mcphatter,"Lover, Please",649
+1962,57,Elvis Presley,Elvis Presley,Can't Help Falling In Love,665
+1962,67,Dion,Dion,Lovers Who Wander,675
+1962,73,Brenda Lee,Brenda Lee,Everybody Loves Me But You,681
+1962,76,Paul Anka,Paul Anka,Love Me Warm And Tender,684
+1962,96,Eddie Hodges,Eddie Hodges,"(Girls, Girls, Girls) Were Made To Love",704
+1963,15,Tymes,Tymes,So Much In Love,723
+1963,21,Al Martino,Al Martino,I Love You Because,730
+1963,63,Bill Pursell,Bill Pursell,Our Winter Love,772
+1964,2,Beatles,Beatles,She Loves You,811
+1964,6,Dean Martin,Dean Martin,Everybody Loves Somebody,815
+1964,10,Supremes,Supremes,Where Did Our Love Go,819
+1964,14,Beatles,Beatles,Love Me Do,823
+1964,19,Ray Charles Singers,Ray Charles Singers,Love Me With All Your Heart,828
+1964,21,Dixie Cups,Dixie Cups,Chapel Of Love,830
+1964,27,Gene Pitney,Gene Pitney,It Hurts To Be In Love,836
+1964,30,Peter and Gordon,Peter and Gordon,A World Without Love,839
+1964,33,Supremes,Supremes,Baby Love,842
+1964,52,Beatles,Beatles,Can't Buy Me Love,863
+1964,72,Al Martino,Al Martino,I Love You More And More Every Day,883
+1964,81,Jelly Beans,Jelly Beans,I Wanna Love Him So Bad,892
+1964,87,Searchers,Searchers,Don't Throw Your Love Away,898
+1964,91,Dave Clark Five,Dave Clark Five,Do You Love Me,902
+1965,19,Herman's Hermits,Herman's Hermits,Mrs. Brown You've Got A Lovely Daughter,930
+1965,20,Supremes,Supremes,Stop! In The Name Of Love,931
+1965,34,Wayne Fontana and The Mindbenders,Wayne Fontana and The Mindbenders,Game Of Love,945
+1965,48,Yardbirds,Yardbirds,For Your Love,959
+1965,63,Jackie DeShannon,Jackie DeShannon,What The World Needs Now Is Love,974
+1965,70,Searchers,Searchers,Love Potion Number Nine,981
+1965,82,Peter and Gordon,Peter and Gordon,True Love Ways,993
+1965,100,Marvin Gaye,Marvin Gaye,How Sweet It Is (To Be Loved By You),1011
+1966,8,Supremes,Supremes,You Can't Hurry Love,1019
+1966,20,Percy Sledge,Percy Sledge,When A Man Loves A Woman,1031
+1966,22,Petula Clark,Petula Clark,My Love,1033
+1966,34,Mindbenders,Mindbenders,A Groovy Kind Of Love,1045
+1966,35,Dusty Springfield,Dusty Springfield,You Don't Have To Say You Love Me,1046
+1966,68,Deon Jackson,Deon Jackson,Love Makes The World Go Round,1079
+1966,71,Ray Conniff and The Singers,Ray Conniff and The Singers,Somewhere My Love,1082
+1966,78,Lou Rawls,Lou Rawls,Love Is A Hurtin' Thing,1089
+1967,1,Lulu,Lulu,To Sir With Love,1112
+1967,14,Stevie Wonder,Stevie Wonder,I Was Made To Love Her,1126
+1967,20,Association,Association,Never My Love,1132
+1967,28,Supremes,Supremes,Love Is Here And Now You're Gone,1140
+1967,30,Beatles,Beatles,All You Need Is Love,1142
+1967,31,Engelbert Humperdinck,Engelbert Humperdinck,Release Me (And Let Me Love Again),1143
+1967,32,Marvin Gaye and Tammi Terrell,Marvin Gaye,Your Precious Love,1144
+1967,32,Marvin Gaye and Tammi Terrell,Tammi Terrell,Your Precious Love,1145
+1967,33,Jefferson Airplane,Jefferson Airplane,Somebody To Love,1146
+1967,43,Bobby Vinton,Bobby Vinton,Please Love Me Forever,1156
+1967,53,Jackie Wilson,Jackie Wilson,(Your Love Keeps Lifting Me) Higher And Higher,1166
+1967,59,Aretha Franklin,Aretha Franklin,Baby I Love You,1172
+1967,62,Mama's and The Papa's,Mama's and The Papa's,Dedicated To The One I Love,1175
+1967,75,Aretha Franklin,Aretha Franklin,I Never Loved A Man (The Way I Love You),1188
+1967,90,Robert Knight,Robert Knight,Everlasting Love,1204
+1968,2,Paul Mauriat,Paul Mauriat,Love Is Blue,1216
+1968,6,Cream,Cream,Sunshine Of Your Love,1220
+1968,7,Herb Alpert,Herb Alpert,This Guy's In Love With You,1221
+1968,14,Doors,Doors,"Hello, I Love You",1228
+1968,23,Delfonics,Delfonics,La-La Means I Love You,1237
+1968,27,Diana Ross and The Supremes,Diana Ross and The Supremes,Love Child,1241
+1968,36,Sergio Mendes and Brasil '66,Sergio Mendes and Brasil '66,The Look Of Love,1250
+1968,40,Troggs,Troggs,Love Is All Around,1254
+1968,53,People,People,I Love You,1267
+1969,8,Tom Jones,Tom Jones,I'll Never Fall In Love Again,1325
+1969,10,Tommy James and The Shondells,Tommy James and The Shondells,Crimson And Clover,1327
+1969,15,Henry Mancini and His Orch.,Henry Mancini and His Orch.,Love Theme From Romeo And Juliet,1332
+1969,20,Jr. Walker and The All Stars,Jr. Walker and The All Stars,What Does It Take (To Win Your Love),1337
+1969,28,Andy Kim,Andy Kim,"Baby, I Love You",1345
+1969,42,Mercy,Mercy,Love (Can Make You Happy),1359
+1969,46,Jackie DeShannon,Jackie DeShannon,Put A Little Love In Your Heart,1363
+1969,64,Dionne Warwick,Dionne Warwick,This Girl's In Love With You,1381
+1969,72,Marvin Gaye,Marvin Gaye,That's The Way Love Is,1389
+1969,78,Kenny Rogers and The First Edition,Kenny Rogers and The First Edition,"Ruby, Don't Take Your Love To Town",1395
+1969,87,Diana Ross and The Supremes,Diana Ross and The Supremes,I'm Gonna Make You Love Me,1404
+1969,94,Tom Jones,Tom Jones,Love Me Tonight,1411

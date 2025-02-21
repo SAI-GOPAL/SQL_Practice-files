@@ -1,0 +1,4 @@
+year,year_rank,group_name,artist,song_name,id
+1990,1,Wilson Phillips,Wilson Phillips,Hold On,3498
+2000,1,Faith Hill,Faith Hill,Breathe,4563
+2010,1,Ke$ha,Ke$ha,TiK ToK,5909

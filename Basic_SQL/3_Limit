@@ -1,0 +1,2 @@
+-- SQLite
+select * from housing_data limit 15;

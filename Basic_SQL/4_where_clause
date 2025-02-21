@@ -1,0 +1,2 @@
+-- SQLite
+select * from housing_data where west>50;

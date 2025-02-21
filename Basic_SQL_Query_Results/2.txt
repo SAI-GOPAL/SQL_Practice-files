@@ -1,0 +1,6 @@
+Year,Month,Month Name,West,Midwest,South,Northeast
+1968,1,January,17,22.6,35.6,12.9
+1968,2,February,18.6,23.3,31.5,9.7
+1968,3,March,17.4,24.4,42.5,10.7
+1968,4,April,20.6,27,42.9,12
+1968,5,May,20,25.1,46.2,20

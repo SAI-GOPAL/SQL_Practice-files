@@ -1,0 +1,4 @@
+-- SQLite
+-- Write a query that returns all rows for top-10 songs that featured either Katy Perry or Bon Jovi.
+select * from billboard_top_100_year_end
+where (group_name like '%Katy Perry%' or group_name like '%Bon Jovi%') and year_rank<=10

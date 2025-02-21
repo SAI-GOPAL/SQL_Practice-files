@@ -1,0 +1,49 @@
+year,year_rank,group_name,artist,song_name,id
+1993,10,Snow,Snow,Informer,3814
+1993,11,Dr. Dre,Dr. Dre,"Nuthin' But A ""G"" Thang",3815
+1993,12,Boyz II Men,Boyz II Men,In The Still Of The Nite,3816
+1993,13,Jade,Jade,Don't Walk Away,3817
+1993,14,H-Town,H-Town,Knockin' Da Boots,3818
+1993,15,Jodeci,Jodeci,Lately,3819
+1993,16,Duice,Duice,Dazzey Duks,3820
+1993,17,Robin S.,Robin S.,Show Me Love,3821
+1993,18,Peabo Bryson and Regina Belle,Peabo Bryson,A Whole New World,3822
+1993,18,Peabo Bryson and Regina Belle,Regina Belle,A Whole New World,3823
+1993,19,Janet Jackson,Janet Jackson,If,3824
+1993,20,SWV,SWV,I'm So Into You,3825
+2003,10,Evanescence feat. Paul McCoy,Evanescence,Bring Me To Life,4950
+2003,10,Evanescence feat. Paul McCoy,Paul McCoy,Bring Me To Life,4951
+2003,11,Lil Jon and The East Side Boyz feat. Ying Yang Twins,Lil Jon and the East Side Boyz,Get Low,4952
+2003,11,Lil Jon and The East Side Boyz feat. Ying Yang Twins,Ying Yang Twins,Get Low,4953
+2003,12,Beyonce feat. Sean Paul,Beyonce,Baby Boy,4954
+2003,12,Beyonce feat. Sean Paul,Sean Paul,Baby Boy,4955
+2003,13,"Nelly, P. Diddy and Murphy Lee",Nelly,Shake Ya Tailfeather,4956
+2003,13,"Nelly, P. Diddy and Murphy Lee",P. Diddy,Shake Ya Tailfeather,4957
+2003,13,"Nelly, P. Diddy and Murphy Lee",Murphy Lee,Shake Ya Tailfeather,4958
+2003,14,50 Cent feat. Nate Dogg,50 Cent,21 Questions,4959
+2003,14,50 Cent feat. Nate Dogg,Nate Dogg,21 Questions,4960
+2003,15,Jennifer Lopez feat. LL Cool J,Jennifer Lopez,All I Have,4961
+2003,15,Jennifer Lopez feat. LL Cool J,LL Cool J,All I Have,4962
+2003,16,Christina Aguilera,Christina Aguilera,Beautiful,4963
+2003,17,Busta Rhymes and Mariah Carey feat. The Flipmode Squad,Busta Rhymes,I Know What You Want,4964
+2003,17,Busta Rhymes and Mariah Carey feat. The Flipmode Squad,Mariah Carey,I Know What You Want,4965
+2003,17,Busta Rhymes and Mariah Carey feat. The Flipmode Squad,The Flipmode Squad,I Know What You Want,4966
+2003,18,Avril Lavigne,Avril Lavigne,I'm With You,4967
+2003,19,Uncle Kracker feat. Dobie Gray,Uncle Kracker,Drift Away,4968
+2003,19,Uncle Kracker feat. Dobie Gray,Dobie Gray,Drift Away,4969
+2003,20,Lil' Kim feat. 50 Cent,Lil' Kim,Magic Stick,4970
+2003,20,Lil' Kim feat. 50 Cent,50 Cent,Magic Stick,4971
+2013,10,Katy Perry,Katy Perry,Roar,6351
+2013,11,Bruno Mars,Bruno Mars,Locked Out Of Heaven,6352
+2013,12,Lumineers,Lumineers,Ho Hey,6353
+2013,13,Rihanna feat. Mikky Ekko,Rihanna,Stay,6354
+2013,13,Rihanna feat. Mikky Ekko,Mikky Ekko,Stay,6355
+2013,14,Daft Punk feat. Pharrell Williams,Daft Punk,Get Lucky,6356
+2013,14,Daft Punk feat. Pharrell Williams,Pharrell Williams,Get Lucky,6357
+2013,15,Lorde,Lorde,Royals,6358
+2013,16,Taylor Swift,Taylor Swift,I Knew You Were Trouble,6359
+2013,17,Miley Cyrus,Miley Cyrus,We Can't Stop,6360
+2013,18,Miley Cyrus,Miley Cyrus,Wrecking Ball,6361
+2013,19,Avicii,Avicii,Wake Me Up!,6362
+2013,20,Justin Timberlake feat. Jay Z,Justin Timberlake,Suit and Tie,6363
+2013,20,Justin Timberlake feat. Jay Z,Jay Z,Suit and Tie,6364

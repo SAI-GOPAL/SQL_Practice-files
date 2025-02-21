@@ -1,0 +1,5 @@
+year,month,month_name,south,west,midwest,northeast
+2011,1,January,17.3,7.2,6.3,4.2
+2011,5,May,20,11.1,8.7,5.6
+2012,1,January,18.8,6,5.8,5.8
+2012,2,February,19.9,7.4,6.4,5.3

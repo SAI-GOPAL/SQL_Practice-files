@@ -1,0 +1,132 @@
+year,year_rank,group_name,artist,song_name,id
+2012,32,Snoop Dogg and Wiz Khalifa feat. Bruno Mars,Snoop Dogg,"Young, Wild and Free",6247
+2012,32,Snoop Dogg and Wiz Khalifa feat. Bruno Mars,Wiz Khalifa,"Young, Wild and Free",6248
+2012,32,Snoop Dogg and Wiz Khalifa feat. Bruno Mars,Bruno Mars,"Young, Wild and Free",6249
+2012,89,Rihanna,Rihanna,You Da One,6321
+2012,63,J. Cole,J. Cole,Work Out,6291
+2012,73,Wiz Khalifa,Wiz Khalifa,"Work Hard, Play Hard",6302
+2012,50,David Guetta feat. Usher,David Guetta,Without You,6273
+2012,50,David Guetta feat. Usher,Usher,Without You,6274
+2012,11,Flo Rida feat. Sia,Flo Rida,Wild Ones,6217
+2012,11,Flo Rida feat. Sia,Sia,Wild Ones,6218
+2012,15,Katy Perry,Katy Perry,Wide Awake,6222
+2012,17,Flo Rida,Flo Rida,Whistle,6224
+2012,21,Rihanna,Rihanna,Where Have You Been,6229
+2012,10,One Direction,One Direction,What Makes You Beautiful,6216
+2012,90,Havana Brown feat. Pitbull,Havana Brown,We Run The Night,6322
+2012,90,Havana Brown feat. Pitbull,Pitbull,We Run The Night,6323
+2012,8,Rihanna feat. Calvin Harris,Rihanna,We Found Love,6213
+2012,8,Rihanna feat. Calvin Harris,Calvin Harris,We Found Love,6214
+2012,3,fun. feat. Janelle Monae,fun.,We Are Young,6206
+2012,3,fun. feat. Janelle Monae,Janelle Monae,We Are Young,6207
+2012,33,Taylor Swift,Taylor Swift,We Are Never Ever Getting Back Together,6250
+2012,52,Hunter Hayes,Hunter Hayes,Wanted,6277
+2012,55,Cher Lloyd,Cher Lloyd,Want U Back,6281
+2012,84,Chris Brown,Chris Brown,Turn Up The Music,6314
+2012,35,David Guetta feat. Nicki Minaj,David Guetta,Turn Me On,6253
+2012,35,David Guetta feat. Nicki Minaj,Nicki Minaj,Turn Me On,6254
+2012,30,Alex Clare,Alex Clare,Too Close,6245
+2012,24,David Guetta feat. Sia,David Guetta,Titanium,6233
+2012,24,David Guetta feat. Sia,Sia,Titanium,6234
+2012,41,Katy Perry,Katy Perry,The One That Got Away,6263
+2012,20,Drake feat. Lil Wayne,Drake,The Motto,6227
+2012,20,Drake feat. Lil Wayne,Lil Wayne,The Motto,6228
+2012,23,Drake feat. Rihanna,Drake,Take Care,6231
+2012,23,Drake feat. Rihanna,Rihanna,Take Care,6232
+2012,88,Jason Aldean,Jason Aldean,Take A Little Ride,6320
+2012,7,Kelly Clarkson,Kelly Clarkson,Stronger (What Doesn't Kill You),6212
+2012,61,Gym Class Heroes feat. Adam Levine,Gym Class Heroes,Stereo Hearts,6288
+2012,61,Gym Class Heroes feat. Adam Levine,Adam Levine,Stereo Hearts,6289
+2012,9,Nicki Minaj,Nicki Minaj,Starships,6215
+2012,58,Eric Church,Eric Church,Springsteen,6285
+2012,96,Kip Moore,Kip Moore,Somethin' 'Bout A Truck,6329
+2012,43,Adele,Adele,Someone Like You,6265
+2012,1,Gotye feat. Kimbra,Gotye,Somebody That I Used To Know,6203
+2012,1,Gotye feat. Kimbra,Kimbra,Somebody That I Used To Know,6204
+2012,14,fun.,fun.,Some Nights,6221
+2012,80,B.o.B,B.o.B,So Good,6310
+2012,13,LMFAO,LMFAO,Sexy And I Know It,6220
+2012,12,Adele,Adele,Set Fire To The Rain,6219
+2012,44,Usher,Usher,Scream,6266
+2012,64,Adele,Adele,Rumour Has It,6292
+2012,71,Adele,Adele,Rolling In The Deep,6300
+2012,82,Toby Keith,Toby Keith,Red Solo Cup,6312
+2012,45,Tyga,Tyga,Rack City,6267
+2012,75,Nicki Minaj,Nicki Minaj,Pound The Alarm,6304
+2012,67,Little Big Town,Little Big Town,Pontoon,6296
+2012,4,Maroon 5 feat. Wiz Khalifa,Maroon 5,Payphone,6208
+2012,4,Maroon 5 feat. Wiz Khalifa,Wiz Khalifa,Payphone,6209
+2012,29,LMFAO feat. Lauren Bennett and GoonRock,LMFAO,Party Rock Anthem,6242
+2012,29,LMFAO feat. Lauren Bennett and GoonRock,Lauren Bennett,Party Rock Anthem,6243
+2012,29,LMFAO feat. Lauren Bennett and GoonRock,GoonRock,Party Rock Anthem,6244
+2012,31,Katy Perry,Katy Perry,Part Of Me,6246
+2012,69,Coldplay,Coldplay,Paradise,6298
+2012,18,Maroon 5,Maroon 5,One More Night,6225
+2012,60,Gavin DeGraw,Gavin DeGraw,Not Over You,6287
+2012,54,2 Chainz feat. Drake,2 Chainz,No Lie,6279
+2012,54,2 Chainz feat. Drake,Drake,No Lie,6280
+2012,40,Jay Z and Kanye West,Jay Z,Ni**As In Paris,6261
+2012,40,Jay Z and Kanye West,Kanye West,Ni**As In Paris,6262
+2012,36,Maroon 5 feat. Christina Aguilera,Maroon 5,Moves Like Jagger,6255
+2012,36,Maroon 5 feat. Christina Aguilera,Christina Aguilera,Moves Like Jagger,6256
+2012,27,"Kanye West, Big Sean, Pusha T, 2 Chainz",Kanye West,Mercy,6237
+2012,27,"Kanye West, Big Sean, Pusha T, 2 Chainz",Big Sean,Mercy,6238
+2012,27,"Kanye West, Big Sean, Pusha T, 2 Chainz",Pusha T,Mercy,6239
+2012,27,"Kanye West, Big Sean, Pusha T, 2 Chainz",2 Chainz,Mercy,6240
+2012,83,Selena Gomez and The Scene,Selena Gomez and The Scene,Love You Like A Love Song,6313
+2012,5,Ellie Goulding,Ellie Goulding,Lights,6210
+2012,65,Calvin Harris feat. Ne-Yo,Calvin Harris,Let's Go,6293
+2012,65,Calvin Harris feat. Ne-Yo,Ne-Yo,Let's Go,6294
+2012,74,Ne-Yo,Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),6303
+2012,91,Imagine Dragons,Imagine Dragons,It's Time,6324
+2012,26,Bruno Mars,Bruno Mars,It Will Rain,6236
+2012,48,Pitbull feat. Chris Brown,Pitbull,International Love,6270
+2012,48,Pitbull feat. Chris Brown,Chris Brown,International Love,6271
+2012,25,Jason Mraz,Jason Mraz,I Won't Give Up,6235
+2012,93,Luke Bryan,Luke Bryan,I Don't Want This Night To End,6326
+2012,49,Phillip Phillips,Phillip Phillips,Home,6272
+2012,68,The Lumineers,The Lumineers,Ho Hey,6297
+2012,77,Trey Songz,Trey Songz,Heart Attack,6306
+2012,95,Lee Brice,Lee Brice,Hard To Love,6328
+2012,38,Owl City and Carly Rae Jepsen,Owl City,Good Time,6258
+2012,38,Owl City and Carly Rae Jepsen,Carly Rae Jepsen,Good Time,6259
+2012,66,Carrie Underwood,Carrie Underwood,Good Girl,6295
+2012,16,Flo Rida,Flo Rida,Good Feeling,6223
+2012,6,The Wanted,The Wanted,Glad You Came,6211
+2012,39,Demi Lovato,Demi Lovato,Give Your Heart A Break,6260
+2012,47,Psy,Psy,Gangnam Style,6269
+2012,98,Jason Aldean,Jason Aldean,Fly Over States,6331
+2012,42,Calvin Harris,Calvin Harris,Feel So Close,6264
+2012,22,Neon Trees,Neon Trees,Everybody Talks,6230
+2012,99,Eli Young Band,Eli Young Band,Even If It Breaks Your Heart,6332
+2012,53,Luke Bryan,Luke Bryan,Drunk On You,6278
+2012,19,Train,Train,Drive By,6226
+2012,78,Kirko Bangz,Kirko Bangz,Drank In My Cup,6307
+2012,56,Chris Brown,Chris Brown,Don't Wake Me Up,6282
+2012,46,Jessie J,Jessie J,Domino,6268
+2012,85,Ke$ha,Ke$ha,Die Young,6315
+2012,94,Rihanna,Rihanna,Diamonds,6327
+2012,57,Big Sean feat. Nicki Minaj,Big Sean,Dance (A$$),6283
+2012,57,Big Sean feat. Nicki Minaj,Nicki Minaj,Dance (A$$),6284
+2012,76,Kenny Chesney,Kenny Chesney,Come Over,6305
+2012,72,Usher,Usher,Climax,6301
+2012,92,Ca$h Out,Ca$h Out,Cashin' Out,6325
+2012,2,Carly Rae Jepsen,Carly Rae Jepsen,Call Me Maybe,6205
+2012,100,Linkin Park,Linkin Park,Burn It Down,6333
+2012,59,Karmin,Karmin,Brokenhearted,6286
+2012,28,Justin Bieber,Justin Bieber,Boyfriend,6241
+2012,70,Carrie Underwood,Carrie Underwood,Blown Away,6299
+2012,37,P!nk,P!nk,Blow Me (One Last Kiss),6257
+2012,79,Rihanna feat. Chris Brown,Rihanna,Birthday Cake,6308
+2012,79,Rihanna feat. Chris Brown,Chris Brown,Birthday Cake,6309
+2012,62,Pitbull,Pitbull,Back In Time,6290
+2012,51,Gym Class Heroes feat. Neon Hitch,Gym Class Heroes,Ass Back Home,6275
+2012,51,Gym Class Heroes feat. Neon Hitch,Neon Hitch,Ass Back Home,6276
+2012,34,Justin Bieber feat. Big Sean,Justin Bieber,As Long as You Love Me,6251
+2012,34,Justin Bieber feat. Big Sean,Big Sean,As Long as You Love Me,6252
+2012,97,Miguel,Miguel,Adorn,6330
+2012,87,Christina Perri,Christina Perri,A Thousand Years,6319
+2012,81,Train,Train,50 Ways To Say Goodbye,6311
+2012,86,T-Pain feat. Wiz Khalifa and Lily Allen,T-Pain,5 O'Clock,6316
+2012,86,T-Pain feat. Wiz Khalifa and Lily Allen,Wiz Khalifa,5 O'Clock,6317
+2012,86,T-Pain feat. Wiz Khalifa and Lily Allen,Lily Allen,5 O'Clock,6318

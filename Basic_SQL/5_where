@@ -1,0 +1,3 @@
+-- SQLite
+--Did the South Region ever produce 20,000 or fewer housing units in one month?
+select * from housing_data where South<=20;

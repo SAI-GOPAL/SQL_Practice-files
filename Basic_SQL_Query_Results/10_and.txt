@@ -1,0 +1,8 @@
+year,year_rank,group_name,artist,song_name,id
+2004,1,Usher feat. Lil Jon and Ludacris,Usher,Yeah!,5082
+2004,1,Usher feat. Lil Jon and Ludacris,Lil Jon,Yeah!,5083
+2004,1,Usher feat. Lil Jon and Ludacris,Ludacris,Yeah!,5084
+2007,10,Fergie feat. Ludacris,Fergie,Glamorous,5508
+2007,10,Fergie feat. Ludacris,Ludacris,Glamorous,5509
+2010,10,Taio Cruz feat. Ludacris,Taio Cruz,Break Your Heart,5922
+2010,10,Taio Cruz feat. Ludacris,Ludacris,Break Your Heart,5923

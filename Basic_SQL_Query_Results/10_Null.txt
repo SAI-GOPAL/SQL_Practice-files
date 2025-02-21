@@ -1,0 +1,7 @@
+year,year_rank,group_name,artist,song_name,id
+1961,18,Connie Francis,Connie Francis,,526
+1962,79,Larry Finnegan,Larry Finnegan,,687
+1963,97,Beach Boys,Beach Boys,,806
+1974,79,Mike Oldfield,Mike Oldfield,,1903
+1997,86,Brian McKnight feat. Mase,Mase,,4315
+2011,87,Jason Derulo,Jason Derulo,,6183

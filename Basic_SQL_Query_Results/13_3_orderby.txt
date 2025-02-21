@@ -1,0 +1,54 @@
+year,year_rank,group_name,artist,song_name,id
+2008,100,2 Pistols feat. T-Pain and Tay Dizm,2 Pistols,She Got It,5776
+2008,100,2 Pistols feat. T-Pain and Tay Dizm,T-Pain,She Got It,5777
+2008,100,2 Pistols feat. T-Pain and Tay Dizm,Tay Dizm,She Got It,5778
+2006,98,T-Pain,T-Pain,I'm Sprung,5492
+2005,95,T-Pain,T-Pain,I'm Sprung,5348
+2007,93,Chris Brown feat. T-Pain,Chris Brown,Kiss Kiss,5626
+2007,93,Chris Brown feat. T-Pain,T-Pain,Kiss Kiss,5627
+2007,88,Bow Wow feat. T-Pain and Johnta Austin,Bow Wow,Outta My System,5618
+2007,88,Bow Wow feat. T-Pain and Johnta Austin,T-Pain,Outta My System,5619
+2007,88,Bow Wow feat. T-Pain and Johnta Austin,Johnta Austin,Outta My System,5620
+2012,86,T-Pain feat. Wiz Khalifa and Lily Allen,T-Pain,5 O'Clock,6316
+2012,86,T-Pain feat. Wiz Khalifa and Lily Allen,Wiz Khalifa,5 O'Clock,6317
+2012,86,T-Pain feat. Wiz Khalifa and Lily Allen,Lily Allen,5 O'Clock,6318
+2007,84,Baby Bash feat. T-Pain,Baby Bash,Cyclone,5610
+2007,84,Baby Bash feat. T-Pain,T-Pain,Cyclone,5611
+2008,84,Rick Ross feat. T-Pain,Rick Ross,The Boss,5753
+2008,84,Rick Ross feat. T-Pain,T-Pain,The Boss,5754
+2008,79,Kanye West feat. T-Pain,Kanye West,Good Life,5747
+2008,79,Kanye West feat. T-Pain,T-Pain,Good Life,5748
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",DJ Khaled,All I Do Is Win,6023
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",T-Pain,All I Do Is Win,6024
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",Ludacris,All I Do Is Win,6025
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",Snoop Dogg,All I Do Is Win,6026
+2010,79,"DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg and Rick Ross",Rick Ross,All I Do Is Win,6027
+2008,71,Baby Bash feat. T-Pain,Baby Bash,Cyclone,5736
+2008,71,Baby Bash feat. T-Pain,T-Pain,Cyclone,5737
+2007,60,Plies feat. T-Pain,Plies,Shawty,5578
+2007,60,Plies feat. T-Pain,T-Pain,Shawty,5579
+2006,52,E-40 feat. T-Pain and Kandi Girl,E-40,U and Dat,5423
+2006,52,E-40 feat. T-Pain and Kandi Girl,T-Pain,U and Dat,5424
+2006,52,E-40 feat. T-Pain and Kandi Girl,Kandi Girl,U and Dat,5425
+2007,49,R. Kelly Or Bow Wow (feat. T.I. and T-Pain),R. Kelly,I'm A Flirt,5560
+2007,49,R. Kelly Or Bow Wow (feat. T.I. and T-Pain),Bow Wow,I'm A Flirt,5561
+2007,49,R. Kelly Or Bow Wow (feat. T.I. and T-Pain),T.I.,I'm A Flirt,5562
+2007,49,R. Kelly Or Bow Wow (feat. T.I. and T-Pain),T-Pain,I'm A Flirt,5563
+2008,46,T-Pain feat. Lil Wayne,T-Pain,Can't Believe It,5697
+2008,46,T-Pain feat. Lil Wayne,Lil Wayne,Can't Believe It,5698
+2006,41,T-Pain feat. Mike Jones,T-Pain,I'n N Luv (Wit a Stripper),5410
+2006,41,T-Pain feat. Mike Jones,Mike Jones,I'n N Luv (Wit a Stripper),5411
+2008,40,Lil Wayne feat. T-Pain,Lil Wayne,Got Money,5688
+2008,40,Lil Wayne feat. T-Pain,T-Pain,Got Money,5689
+2011,39,Pitbull feat. T-Pain,Pitbull,Hey Baby (Drop It To The Floor),6111
+2011,39,Pitbull feat. T-Pain,T-Pain,Hey Baby (Drop It To The Floor),6112
+2007,33,T-Pain feat. Akon,T-Pain,Bartender,5538
+2007,33,T-Pain feat. Akon,Akon,Bartender,5539
+2008,19,Chris Brown feat. T-Pain,Chris Brown,Kiss Kiss,5661
+2008,19,Chris Brown feat. T-Pain,T-Pain,Kiss Kiss,5662
+2009,16,Jamie Foxx feat. T-Pain,Jamie Foxx,Blame It,5798
+2009,16,Jamie Foxx feat. T-Pain,T-Pain,Blame It,5799
+2007,5,T-Pain feat. Yung Joc,T-Pain,Buy U A Drank (Shawty Snappin'),5501
+2007,5,T-Pain feat. Yung Joc,Yung Joc,Buy U A Drank (Shawty Snappin'),5502
+2008,1,Flo Rida feat. T-Pain,Flo Rida,Low,5638
+2008,1,Flo Rida feat. T-Pain,T-Pain,Low,5639

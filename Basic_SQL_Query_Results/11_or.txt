@@ -1,0 +1,9 @@
+year,year_rank,group_name,artist,song_name,id
+1987,10,Bon Jovi,Bon Jovi,Livin' On A Prayer,3193
+1990,10,Jon Bon Jovi,Jon Bon Jovi,Blaze Of Glory,3507
+2010,4,Katy Perry feat. Snoop Dogg,Katy Perry,California Gurls,5912
+2010,4,Katy Perry feat. Snoop Dogg,Snoop Dogg,California Gurls,5913
+2011,3,Katy Perry,Katy Perry,Firework,6060
+2011,4,Katy Perry feat. Kanye West,Katy Perry,E.T.,6061
+2011,4,Katy Perry feat. Kanye West,Kanye West,E.T.,6062
+2013,10,Katy Perry,Katy Perry,Roar,6351

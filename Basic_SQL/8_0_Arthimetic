@@ -1,0 +1,6 @@
+-- SQLite
+--Write a query that calculates the sum of all four regions in a separate column.
+
+select *,
+south+west+midwest+northeast as total
+from housing_data

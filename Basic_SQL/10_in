@@ -1,0 +1,5 @@
+-- SQLite
+-- Write a query that shows all of the entries for Elvis and M.C. Hammer.
+
+select * from billboard_top_100_year_end
+where artist in ('Elvis Presley', 'M.C. Hammer','Hammer');

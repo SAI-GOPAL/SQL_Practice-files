@@ -1,0 +1,3 @@
+-- SQLite
+-- Write a query that only shows rows for which the month name is February.
+select * from housing_data where trim(month_name) = 'February';

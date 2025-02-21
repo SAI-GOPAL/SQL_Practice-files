@@ -1,0 +1,4 @@
+-- SQLite
+-- Write a query that shows all top 100 songs from January 1, 1985 through December 31, 1990.
+
+select * from billboard_top_100_year_end where year between 1985 and 1990;

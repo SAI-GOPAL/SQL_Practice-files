@@ -1,0 +1,624 @@
+year,year_rank,group_name,artist,song_name,id
+1985,1,Wham!,Wham!,Careless Whisper,2977
+1985,2,Madonna,Madonna,Like A Virgin,2978
+1985,3,Wham!,Wham!,Wake Me Up Before You Go-Go,2979
+1985,4,Foreigner,Foreigner,I Want To Know What Love Is,2980
+1985,5,Chaka Khan,Chaka Khan,I Feel For You,2981
+1985,6,Daryl Hall and John Oates,Daryl Hall,Out Of Touch,2982
+1985,6,Daryl Hall and John Oates,John Oates,Out Of Touch,2983
+1985,7,Tears For Fears,Tears For Fears,Everybody Wants To Rule The World,2984
+1985,8,Dire Straits,Dire Straits,Money For Nothing,2985
+1985,9,Madonna,Madonna,Crazy For You,2986
+1985,10,a-ha,a-ha,Take On Me,2987
+1985,11,Paul Young,Paul Young,Everytime You Go Away,2988
+1985,12,Phil Collins and Philip Bailey,Phil Collins,Easy Lover,2989
+1985,12,Phil Collins and Philip Bailey,Philip Bailey,Easy Lover,2990
+1985,13,REO Speedwagon,REO Speedwagon,Can't Fight This Feeling,2991
+1985,14,Starship,Starship,We Built This City,2992
+1985,15,Huey Lewis and The News,Huey Lewis and The News,The Power Of Love,2993
+1985,16,Simple Minds,Simple Minds,Don't You (Forget About Me),2994
+1985,17,Kool and The Gang,Kool and The Gang,Cherish,2995
+1985,18,John Parr,John Parr,St. Elmo's Fire (Man In Motion),2996
+1985,19,Glenn Frey,Glenn Frey,The Heat Is On,2997
+1985,20,U.S.A. For Africa,U.S.A. For Africa,We Are The World,2998
+1985,21,Tears For Fears,Tears For Fears,Shout,2999
+1985,22,Stevie Wonder,Stevie Wonder,Part-Time Lover,3000
+1985,23,Whitney Houston,Whitney Houston,Saving All My Love For You,3001
+1985,24,Bryan Adams,,Heaven,3002
+1985,25,Wham!,Wham!,Everything She Wants,3003
+1985,26,New Edition,New Edition,Cool It Now,3004
+1985,27,Jan Hammer,Jan Hammer,Miami Vice Theme,3005
+1985,28,Billy Ocean,Billy Ocean,Lover Boy,3006
+1985,29,Teena Marie,Teena Marie,Lover Girl,3007
+1985,30,Glenn Frey,Glenn Frey,You Belong To The City,3008
+1985,31,Ready For The World,Ready For The World,Oh Sheila,3009
+1985,32,Debarge,Debarge,Rhythm Of The Night,3010
+1985,33,Phil Collins,Phil Collins,One More Night,3011
+1985,34,Honeydrippers,Honeydrippers,Sea Of Love,3012
+1985,35,Duran Duran,Duran Duran,A View To A Kill,3013
+1985,36,Duran Duran,Duran Duran,The Wild Boys,3014
+1985,37,Chicago,Chicago,You're The Inspiration,3015
+1985,38,Pointer Sisters,Pointer Sisters,Neutron Dance,3016
+1985,39,Pat Benatar,Pat Benatar,We Belong,3017
+1985,40,Commodores,Commodores,Nightshift,3018
+1985,41,Howard Jones,Howard Jones,Things Can Only Get Better,3019
+1985,42,Jack Wagner,Jack Wagner,All I Need,3020
+1985,43,Aretha Franklin,Aretha Franklin,Freeway Of Love,3021
+1985,44,Corey Hart,Corey Hart,Never Surrender,3022
+1985,45,Phil Collins,Phil Collins,Sussudio,3023
+1985,46,Sheena Easton,Sheena Easton,Strut,3024
+1985,47,Whitney Houston,Whitney Houston,You Give Good Love,3025
+1985,48,Survivor,Survivor,The Search Is Over,3026
+1985,49,Diana Ross,Diana Ross,Missing You,3027
+1985,50,Phil Collins and Marilyn Martin,Phil Collins,Separate Lives,3028
+1985,50,Phil Collins and Marilyn Martin,Marilyn Martin,Separate Lives,3029
+1985,51,Prince and The Revolution,Prince and The Revolution,Raspberry Beret,3030
+1985,52,Billy Ocean,Billy Ocean,Suddenly,3031
+1985,53,Don Henley,Don Henley,The Boys Of Summer,3032
+1985,54,Murray Head,Murray Head,One Night In Bangkok,3033
+1985,55,Sting,Sting,If You Love Somebody Set Them Free,3034
+1985,56,Animotion,Animotion,Obsession,3035
+1985,57,Tina Turner,Tina Turner,We Don't Need Another Hero,3036
+1985,58,Madonna,Madonna,Material Girl,3037
+1985,59,Tina Turner,Tina Turner,Better Be Good To Me,3038
+1985,60,Tears For Fears,Tears For Fears,Head Over Heels,3039
+1985,61,Harold Faltermeyer,Harold Faltermeyer,Axel F,3040
+1985,62,Sade,Sade,Smooth Operator,3041
+1985,63,Mary Jane Girls,Mary Jane Girls,In My House,3042
+1985,64,Phil Collins,Phil Collins,Don't Lose My Number,3043
+1985,65,Cyndi Lauper,Cyndi Lauper,All Through The Night,3044
+1985,66,Bryan Adams,Bryan Adams,Run To You,3045
+1985,67,Bruce Springsteen,Bruce Springsteen,Glory Days,3046
+1985,68,'Til Tuesday,'Til Tuesday,Voices Carry,3047
+1985,69,Kool and The Gang,Kool and The Gang,Misled,3048
+1985,70,Eurythmics,Eurythmics,Would I Lie To You?,3049
+1985,71,ABC,ABC,Be Near Me,3050
+1985,72,Paul McCartney,Paul McCartney,No More Lonely Nights,3051
+1985,73,Survivor,Survivor,I Can't Hold Back,3052
+1985,74,Bryan Adams,Bryan Adams,Summer Of '69,3053
+1985,75,Katrina and The Waves,Katrina and The Waves,Walking On Sunshine,3054
+1985,76,Wham!,Wham!,Freedom,3055
+1985,77,Julian Lennon,Julian Lennon,Too Late For Goodbyes,3056
+1985,78,Julian Lennon,Julian Lennon,Valotte,3057
+1985,79,Power Station,Power Station,Some Like It Hot,3058
+1985,80,Ashford and Simpson,Ashford and Simpson,Solid,3059
+1985,81,Madonna,Madonna,Angel,3060
+1985,82,Bruce Springsteen,Bruce Springsteen,I'm On Fire,3061
+1985,83,Daryl Hall and John Oates,Daryl Hall,Method Of Modern Love,3062
+1985,83,Daryl Hall and John Oates,John Oates,Method Of Modern Love,3063
+1985,84,Thompson Twins,Thompson Twins,Lay Your Hands On Me,3064
+1985,85,Debarge,Debarge,Who's Holding Donna Now,3065
+1985,86,John Cougar Mellencamp,John Cougar Mellencamp,Lonely Ol' Night,3066
+1985,87,Heart,Heart,What About Love,3067
+1985,88,David Lee Roth,David Lee Roth,California Girls,3068
+1985,89,Kool and The Gang,Kool and The Gang,Fresh,3069
+1985,90,Jermaine Jackson,Jermaine Jackson,Do What You Do,3070
+1985,91,The Time,The Time,Jungle Of Love,3071
+1985,92,Bruce Springsteen,Bruce Springsteen,Born In The USA,3072
+1985,93,Tina Turner,Tina Turner,Private Dancer,3073
+1985,94,Aretha Franklin,Aretha Franklin,Who's Zoomin' Who,3074
+1985,95,Sting,Sting,Fortress Around Your Heart,3075
+1985,96,Lionel Richie,Lionel Richie,Penny Lover,3076
+1985,97,Don Henley,Don Henley,All She Wants To Do Is Dance,3077
+1985,98,Madonna,Madonna,Dress You Up,3078
+1985,99,Night Ranger,Night Ranger,Sentimental Street,3079
+1985,100,Sheena Easton,Sheena Easton,Sugar Walls,3080
+1986,1,Dionne and Friends,Dionne and Friends,That's What Friends Are For,3081
+1986,2,Lionel Richie,Lionel Richie,"Say You, Say Me",3082
+1986,3,Klymaxx,Klymaxx,I Miss You,3083
+1986,4,Patti Labelle and Michael McDonald,Patti Labelle,On My Own,3084
+1986,4,Patti Labelle and Michael McDonald,Michael McDonald,On My Own,3085
+1986,5,Mr. Mister,Mr. Mister,Broken Wings,3086
+1986,6,Whitney Houston,Whitney Houston,How Will I Know,3087
+1986,7,Eddie Murphy,Eddie Murphy,Party All The Time,3088
+1986,8,Survivor,Survivor,Burning Heart,3089
+1986,9,Mr. Mister,Mr. Mister,Kyrie,3090
+1986,10,Robert Palmer,Robert Palmer,Addicted To Love,3091
+1986,11,Whitney Houston,Whitney Houston,Greatest Love Of All,3092
+1986,12,Atlantic Starr,Atlantic Starr,Secret Lovers,3093
+1986,13,Carl Anderson and Gloria Loring,Carl Anderson,Friends And Lovers,3094
+1986,13,Carl Anderson and Gloria Loring,Gloria Loring,Friends And Lovers,3095
+1986,14,Peter Cetera,Peter Cetera,Glory Of Love,3096
+1986,15,Pet Shop Boys,Pet Shop Boys,West End Girls,3097
+1986,16,Billy Ocean,Billy Ocean,There'll Be Sad Songs,3098
+1986,17,Simple Minds,Simple Minds,Alive And Kicking,3099
+1986,18,Heart,Heart,Never,3100
+1986,19,Prince and The Revolution,Prince and The Revolution,Kiss,3101
+1986,20,Steve Winwood,Steve Winwood,Higher Love,3102
+1986,21,Huey Lewis and The News,Huey Lewis and The News,Stuck With You,3103
+1986,22,Simply Red,Simply Red,Holding Back The Years,3104
+1986,23,Peter Gabriel,Peter Gabriel,Sledgehammer,3105
+1986,24,Starship,Starship,Sara,3106
+1986,25,Human League,Human League,Human,3107
+1986,26,Nu Shooz,Nu Shooz,I Can't Wait,3108
+1986,27,Berlin,Berlin,Take My Breath Away,3109
+1986,28,Falco,Falco,Rock Me Amadeus,3110
+1986,29,Madonna,Madonna,Papa Don't Preach,3111
+1986,30,Bon Jovi,Bon Jovi,You Give Love A Bad Name,3112
+1986,31,Billy Ocean,Billy Ocean,When The Going Gets Tough,3113
+1986,32,Janet Jackson,Janet Jackson,When I Think Of You,3114
+1986,33,Heart,Heart,These Dreams,3115
+1986,34,Glass Tiger,Glass Tiger,Don't Forget Me (When I'm Gone),3116
+1986,35,Madonna,Madonna,Live To Tell,3117
+1986,36,Belinda Carlisle,Belinda Carlisle,Mad About You,3118
+1986,37,Level 42,Level 42,Something About You,3119
+1986,38,Bananarama,Bananarama,Venus,3120
+1986,39,Lionel Richie,Lionel Richie,Dancing On The Ceiling,3121
+1986,40,Miami Sound Machine,Miami Sound Machine,Conga,3122
+1986,41,Cyndi Lauper,Cyndi Lauper,True Colors,3123
+1986,42,Kenny Loggins,Kenny Loggins,Danger Zone,3124
+1986,43,Janet Jackson,Janet Jackson,What Have You Done For Me Lately,3125
+1986,44,Howard Jones,Howard Jones,No One Is To Blame,3126
+1986,45,Sly Fox,Sly Fox,Let's Go All The Way,3127
+1986,46,Robert Palmer,Robert Palmer,I Didn't Mean To Turn You On,3128
+1986,47,Miami Sound Machine,Miami Sound Machine,Words Get In The Way,3129
+1986,48,Bangles,Bangles,Manic Monday,3130
+1986,49,Dire Straits,Dire Straits,Walk Of Life,3131
+1986,50,Boston,Boston,Amanda,3132
+1986,51,Stacey Q,Stacey Q,Two Of Hearts,3133
+1986,52,Jets,Jets,Crush On You,3134
+1986,53,Orchestral Manoeuvres In The Dark,Orchestral Manoeuvres In The Dark,If You Leave,3135
+1986,54,Genesis,Genesis,Invisible Touch,3136
+1986,55,Sade,Sade,The Sweetest Taboo,3137
+1986,56,INXS,INXS,What You Need,3138
+1986,57,Stevie Nicks,Stevie Nicks,Talk To Me,3139
+1986,58,Janet Jackson,Janet Jackson,Nasty,3140
+1986,59,Eddie Money,Eddie Money,Take Me Home Tonight,3141
+1986,60,Jermaine Stewart,Jermaine Stewart,We Don't Have To Take Our Clothes Off,3142
+1986,61,Lisa Lisa and Cult Jam With Full Force,Lisa Lisa and Cult Jam,All Cried Out,3143
+1986,61,Lisa Lisa and Cult Jam With Full Force,Full Force,All Cried Out,3144
+1986,62,Outfield,Outfield,Your Love,3145
+1986,63,Wham!,Wham!,I'm Your Man,3146
+1986,64,Scritti Politti,Scritti Politti,Perfect Way,3147
+1986,65,James Brown,James Brown,Living In America,3148
+1986,66,John Cougar Mellencamp,John Cougar Mellencamp,R.O.C.K. In The U.S.A.,3149
+1986,67,El Debarge,El Debarge,Who's Johnny,3150
+1986,68,Cameo,Cameo,Word Up,3151
+1986,69,Van Halen,Van Halen,Why Can't This Be Love,3152
+1986,70,Mike and The Mechanics,Mike and The Mechanics,Silent Running,3153
+1986,71,Tina Turner,Tina Turner,Typical Male,3154
+1986,72,John Cougar Mellencamp,John Cougar Mellencamp,Small Town,3155
+1986,73,Baltimora,Baltimora,Tarzan Boy,3156
+1986,74,Mike and The Mechanics,Mike and The Mechanics,All I Need Is A Miracle,3157
+1986,75,Michael McDonald,Michael McDonald,Sweet Freedom,3158
+1986,76,Madonna,Madonna,True Blue,3159
+1986,77,Timex Social Club,Timex Social Club,Rumors,3160
+1986,78,Dream Academy,Dream Academy,Life In A Northern Town,3161
+1986,79,Miami Sound Machine,Miami Sound Machine,Bad Boy,3162
+1986,80,ZZ Top,ZZ Top,Sleeping Bag,3163
+1986,81,Cars,Cars,Tonight She Comes,3164
+1986,82,Rod Stewart,Rod Stewart,Love Touch,3165
+1986,83,Sheila E.,Sheila E.,A Love Bizarre,3166
+1986,84,Genesis,Genesis,Throwing It All Away,3167
+1986,85,Regina,Regina,Baby Love,3168
+1986,86,Arcadia,Arcadia,Election Day,3169
+1986,87,Elton John,Elton John,Nikita,3170
+1986,88,Phil Collins,Phil Collins,Take Me Home,3171
+1986,89,Run-D.M.C.,Run-D.M.C.,Walk This Way,3172
+1986,90,Anita Baker,Anita Baker,Sweet Love,3173
+1986,91,Moody Blues,Moody Blues,Your Wildest Dreams,3174
+1986,92,Paul McCartney,Paul McCartney,Spies Like Us,3175
+1986,93,Starpoint,Starpoint,Object Of My Desire,3176
+1986,94,Daryl Hall,Daryl Hall,Dreamtime,3177
+1986,95,Force M.D.'s,Force M.D.'s,Tender Love,3178
+1986,96,Thompson Twins,Thompson Twins,King For A Day,3179
+1986,97,Lionel Richie,Lionel Richie,Love Will Conquer All,3180
+1986,98,George Michael,George Michael,A Different Corner,3181
+1986,99,Toto,Toto,I'll Be Over You,3182
+1986,100,Stevie Wonder,Stevie Wonder,Go Home,3183
+1987,1,Bangles,Bangles,Walk Like An Egyptian,3184
+1987,2,Heart,Heart,Alone,3185
+1987,3,Gregory Abbott,Gregory Abbott,Shake You Down,3186
+1987,4,Whitney Houston,Whitney Houston,I Wanna Dance With Somebody (Who Loves Me),3187
+1987,5,Starship,Starship,Nothing's Gonna Stop Us Now,3188
+1987,6,Robbie Nevil,Robbie Nevil,C'est La Vie,3189
+1987,7,Whitesnake,Whitesnake,Here I Go Again,3190
+1987,8,Bruce Hornsby and The Range,Bruce Hornsby and The Range,The Way It Is,3191
+1987,9,Bob Seger,Bob Seger,Shakedown,3192
+1987,10,Bon Jovi,Bon Jovi,Livin' On A Prayer,3193
+1987,11,Los Lobos,Los Lobos,La Bamba,3194
+1987,12,Wang Chung,Wang Chung,Everybody Have Fun Tonight,3195
+1987,13,Crowded House,Crowded House,Don't Dream It's Over,3196
+1987,14,Atlantic Starr,Atlantic Starr,Always,3197
+1987,15,U2,U2,With Or Without You,3198
+1987,16,Jody Watley,Jody Watley,Looking For A New Love,3199
+1987,17,Lisa Lisa and Cult Jam,Lisa Lisa and Cult Jam,Head To Toe,3200
+1987,18,Tiffany,Tiffany,I Think We're Alone Now,3201
+1987,19,Billy Idol,Billy Idol,Mony Mony,3202
+1987,20,Billy Vera and The Beaters,Billy Vera and The Beaters,At This Moment,3203
+1987,21,Chris De Burgh,Chris De Burgh,The Lady In Red,3204
+1987,22,Whitney Houston,Whitney Houston,Didn't We Almost Have It All,3205
+1987,23,U2,U2,I Still Haven't Found What I'm Looking For,3206
+1987,24,George Michael,George Michael,I Want Your Sex,3207
+1987,25,Duran Duran,Duran Duran,Notorious,3208
+1987,26,Debbie Gibson,Debbie Gibson,Only In My Dreams,3209
+1987,27,Bill Medley and Jennifer Warnes,Bill Medley,(I've Had) The Time Of My Life,3210
+1987,27,Bill Medley and Jennifer Warnes,Jennifer Warnes,(I've Had) The Time Of My Life,3211
+1987,28,Peter Cetera and Amy Grant,Peter Cetera,The Next Time I Fall,3212
+1987,28,Peter Cetera and Amy Grant,Amy Grant,The Next Time I Fall,3213
+1987,29,Club Nouveau,Club Nouveau,Lean On Me,3214
+1987,30,Madonna,Madonna,Open Your Heart,3215
+1987,31,Lisa Lisa and Cult Jam,Lisa Lisa and Cult Jam,Lost In Emotion,3216
+1987,32,Cutting Crew,Cutting Crew,(I Just) Died In Your Arms,3217
+1987,33,T'pau,T'pau,Heart And Soul,3218
+1987,34,Kim Wilde,Kim Wilde,You Keep Me Hangin' On,3219
+1987,35,Georgia Satellites,Georgia Satellites,Keep Your Hands To Yourself,3220
+1987,36,Aretha Franklin and George Michael,Aretha Franklin,I Knew You Were Waiting (For Me),3221
+1987,36,Aretha Franklin and George Michael,George Michael,I Knew You Were Waiting (For Me),3222
+1987,37,Janet Jackson,Janet Jackson,Control,3223
+1987,38,Prince,Prince,U Got The Look,3224
+1987,39,Linda Ronstadt and James Ingram,Linda Ronstadt,Somewhere Out There,3225
+1987,39,Linda Ronstadt and James Ingram,James Ingram,Somewhere Out There,3226
+1987,40,Genesis,Genesis,Land Of Confusion,3227
+1987,41,Huey Lewis and The News,Huey Lewis and The News,Jacob's Ladder,3228
+1987,42,Madonna,Madonna,Who's That Girl,3229
+1987,43,Jets,Jets,You Got It All,3230
+1987,44,Samantha Fox,Samantha Fox,Touch Me (I Want Your Body),3231
+1987,45,Michael Jackson and Siedah Garrett,Michael Jackson,I Just Can't Stop Loving You,3232
+1987,45,Michael Jackson and Siedah Garrett,Siedah Garrett,I Just Can't Stop Loving You,3233
+1987,46,Madonna,Madonna,Causing A Commotion,3234
+1987,47,Genesis,Genesis,In Too Deep,3235
+1987,48,Janet Jackson,Janet Jackson,Let's Wait Awhile,3236
+1987,49,Huey Lewis and The News,Huey Lewis and The News,Hip To Be Square,3237
+1987,50,Chicago,Chicago,Will You Still Love Me?,3238
+1987,51,Fleetwood Mac,Fleetwood Mac,Little Lies,3239
+1987,52,Suzanne Vega,Suzanne Vega,Luka,3240
+1987,53,Bananarama,Bananarama,I Heard A Rumour,3241
+1987,54,Richard Marx,Richard Marx,Don't Mean Nothing,3242
+1987,55,Kenny G,Kenny G,Songbird,3243
+1987,56,Europe,Europe,Carrie,3244
+1987,57,System,System,Don't Disturb This Groove,3245
+1987,58,Madonna,Madonna,La Isla Bonita,3246
+1987,59,Michael Jackson,Michael Jackson,Bad,3247
+1987,60,Prince,Prince,Sign 'O' The Times,3248
+1987,61,Cyndi Lauper,Cyndi Lauper,Change Of Heart,3249
+1987,62,Expose,Expose,Come Go With Me,3250
+1987,63,Dan Hill,Dan Hill,Can't We Try,3251
+1987,64,Billy Idol,Billy Idol,To Be A Lover,3252
+1987,65,Bruce Hornsby and The Range,Bruce Hornsby and The Range,Mandolin Rain,3253
+1987,66,Swing Out Sister,Swing Out Sister,Breakout,3254
+1987,67,Ben E. King,Ben E. King,Stand By Me,3255
+1987,68,Genesis,Genesis,"Tonight, Tonight, Tonight",3256
+1987,69,Glass Tiger,Glass Tiger,Someday,3257
+1987,70,ABC,ABC,When Smokey Sings,3258
+1987,71,Levert,Levert,Casanova,3259
+1987,72,Gloria Estefan and Miami Sound Machine,Gloria Estefan,Rhythm Is Gonna Get You,3260
+1987,72,Gloria Estefan and Miami Sound Machine,Miami Sound Machine,Rhythm Is Gonna Get You,3261
+1987,73,Whispers,Whispers,Rock Steady,3262
+1987,74,Bon Jovi,Bon Jovi,Wanted Dead Or Alive,3263
+1987,75,Peter Gabriel,Peter Gabriel,Big Time,3264
+1987,76,Steve Winwood,Steve Winwood,The Finer Things,3265
+1987,77,Expose,Expose,Let Me Be The One,3266
+1987,78,Survivor,Survivor,Is This Love,3267
+1987,79,Herb Alpert,Herb Alpert,Diamonds,3268
+1987,80,Expose,Expose,Point Of No Return,3269
+1987,81,Fleetwood Mac,Fleetwood Mac,Big Love,3270
+1987,82,Lou Gramm,Lou Gramm,Midnight Blue,3271
+1987,83,Crowded House,Crowded House,Something So Strong,3272
+1987,84,Bryan Adams,Bryan Adams,Heat Of The Night,3273
+1987,85,Glenn Medeiros,Glenn Medeiros,Nothing's Gonna Change My Love For You,3274
+1987,86,Bruce Springsteen,Bruce Springsteen,Brilliant Disguise,3275
+1987,87,Smokey Robinson,Smokey Robinson,Just To See Her,3276
+1987,88,Heart,Heart,Who Will You Run Too,3277
+1987,89,Bruce Willis,Bruce Willis,Respect Yourself,3278
+1987,90,Jets,Jets,Cross My Broken Heart,3279
+1987,91,Kool and The Gang,Kool and The Gang,Victory,3280
+1987,92,Pretenders,Pretenders,Don't Get Me Wrong,3281
+1987,93,Huey Lewis and The News,Huey Lewis and The News,Doing It All For My Baby,3282
+1987,94,Breakfast Club,Breakfast Club,Right On Track,3283
+1987,95,Lionel Richie,Lionel Richie,Ballerina Girl,3284
+1987,96,Kenny Loggins,Kenny Loggins,Meet Me Half Way,3285
+1987,97,Cutting Crew,Cutting Crew,I've Been In Love Before,3286
+1987,98,Beastie Boys,Beastie Boys,(You Gotta) Fight For Your Right (To Party),3287
+1987,99,Pseudo Echo,Pseudo Echo,Funkytown,3288
+1987,100,Ready For The World,Ready For The World,Love You Down,3289
+1988,1,George Michael,George Michael,Faith,3290
+1988,2,INXS,INXS,Need You Tonight,3291
+1988,3,George Harrison,George Harrison,Got My Mind Set On You,3292
+1988,4,Rick Astley,Rick Astley,Never Gonna Give You Up,3293
+1988,5,Guns N' Roses,Guns N' Roses,Sweet Child O' Mine,3294
+1988,6,Whitney Houston,Whitney Houston,So Emotional,3295
+1988,7,Belinda Carlisle,Belinda Carlisle,Heaven Is A Place On Earth,3296
+1988,8,Tiffany,Tiffany,Could've Been,3297
+1988,9,Breathe,Breathe,Hands To Heaven,3298
+1988,10,Steve Winwood,Steve Winwood,Roll With It,3299
+1988,11,George Michael,George Michael,One More Try,3300
+1988,12,Terence Trent d'Arby,Terence Trent d'Arby,Wishing Well,3301
+1988,13,Gloria Estefan and Miami Sound Machine,Gloria Estefan,Anything For You,3302
+1988,13,Gloria Estefan and Miami Sound Machine,Miami Sound Machine,Anything For You,3303
+1988,14,Cheap Trick,Cheap Trick,The Flame,3304
+1988,15,Billy Ocean,Billy Ocean,"Get Outta My Dreams, Get Into My Car",3305
+1988,16,Expose,Expose,Seasons Change,3306
+1988,17,Whitesnake,Whitesnake,Is This Love,3307
+1988,18,Escape Club,Escape Club,"Wild, Wild West",3308
+1988,19,Def Leppard,Def Leppard,Pour Some Sugar On Me,3309
+1988,20,Taylor Dayne,Taylor Dayne,I'll Always Love You,3310
+1988,21,Michael Jackson,Michael Jackson,Man In The Mirror,3311
+1988,22,Debbie Gibson,Debbie Gibson,Shake Your Love,3312
+1988,23,Robert Palmer,Robert Palmer,Simply Irresistible,3313
+1988,24,Richard Marx,Richard Marx,Hold On To The Nights,3314
+1988,25,Eric Carnen,Eric Carnen,Hungry Eyes,3315
+1988,26,Johnny Hates Jazz,Johnny Hates Jazz,Shattered Dreams,3316
+1988,27,George Michael,George Michael,Father Figure,3317
+1988,28,Samantha Fox,Samantha Fox,Naughty Girls (Need Love Too),3318
+1988,29,Phil Collins,Phil Collins,A Groovy Kind Of Love,3319
+1988,30,Def Leppard,Def Leppard,Love Bites,3320
+1988,31,Richard Marx,Richard Marx,Endless Summer Nights,3321
+1988,32,Debbie Gibson,Debbie Gibson,Foolish Beat,3322
+1988,33,Whitney Houston,Whitney Houston,Where Do Broken Hearts Go,3323
+1988,34,Aerosmith,Aerosmith,Angel,3324
+1988,35,Bangles,Bangles,Hazy Shade Of Winter,3325
+1988,36,Michael Jackson,Michael Jackson,The Way You Make Me Feel,3326
+1988,37,Bobby McFerrin,Bobby McFerrin,"Don't Worry, Be Happy",3327
+1988,38,Eric Carnen,Eric Carnen,Make Me Lose Control,3328
+1988,39,UB40,UB40,Red Red Wine,3329
+1988,40,Patric Swayze,Patric Swayze,She's Like The Wind,3330
+1988,41,Bon Jovi,Bon Jovi,Bad Medicine,3331
+1988,42,Beach Boys,Beach Boys,Kokomo,3332
+1988,43,Elton John,Elton John,I Don't Wanna Go On With You Like That,3333
+1988,44,Rick Astley,Rick Astley,Together Forever,3334
+1988,45,George Michael,George Michael,Monkey,3335
+1988,46,INXS,INXS,Devil Inside,3336
+1988,47,Richard Marx,Richard Marx,Should've Known Better,3337
+1988,48,Chicago,Chicago,I Don't Wanna Live Without Your Love,3338
+1988,49,Kylie Minogue,Kylie Minogue,The Loco-Motion,3339
+1988,50,Pet Shop Boys and Dusty Springfield,Pet Shop Boys,What Have I Done To Deserve This?,3340
+1988,50,Pet Shop Boys and Dusty Springfield,Dusty Springfield,What Have I Done To Deserve This?,3341
+1988,51,Jets,Jets,Make It Real,3342
+1988,52,Information Society,Information Society,What's On Your Mind,3343
+1988,53,Taylor Dayne,Taylor Dayne,Tell It To My Heart,3344
+1988,54,Debbie Gibson,Debbie Gibson,Out Of The Blue,3345
+1988,55,Jody Watley,Jody Watley,Don't You Want Me,3346
+1988,56,U2,U2,Desire,3347
+1988,57,Belinda Carlisle,Belinda Carlisle,I Get Weak,3348
+1988,58,Terence Trent d'Arby,Terence Trent d'Arby,Sign Your Name,3349
+1988,59,Roger,Roger,I Want To Be Your Man,3350
+1988,60,Pebbles,Pebbles,Girlfriend,3351
+1988,61,Michael Jackson,Michael Jackson,Dirty Diana,3352
+1988,62,Gloria Estefan and Miami Sound Machine,Gloria Estefan,1 2 3 4,3353
+1988,62,Gloria Estefan and Miami Sound Machine,Miami Sound Machine,1 2 3 4,3354
+1988,63,Pebbles,Pebbles,Mercedes Boy,3355
+1988,64,Huey Lewis and The News,Huey Lewis and The News,Perfect World,3356
+1988,65,INXS,INXS,New Sensation,3357
+1988,66,Pretty Poison,Pretty Poison,Catch Me (I'm Falling),3358
+1988,67,New Edition,New Edition,If It Isn't Love,3359
+1988,68,Jets,Jets,Rocket 2 U,3360
+1988,69,Peter Cetera,Peter Cetera,One Good Woman,3361
+1988,70,Cheap Trick,Cheap Trick,Don't Be Cruel,3362
+1988,71,Elton John,Elton John,Candle In The Wind,3363
+1988,72,Daryl Hall and John Oates,Daryl Hall,Everything Your Heart Desires,3364
+1988,72,Daryl Hall and John Oates,John Oates,Everything Your Heart Desires,3365
+1988,73,Foreigner,Foreigner,Say You Will,3366
+1988,74,Keith Sweat,Keith Sweat,I Want Her,3367
+1988,75,Natalie Cole,Natalie Cole,Pink Cadillac,3368
+1988,76,Tracy Chapman,Tracy Chapman,Fast Car,3369
+1988,77,Icehouse,Icehouse,Electric Blue,3370
+1988,78,Bruce Hornsby and The Range,Bruce Hornsby and The Range,The Valley Road,3371
+1988,79,Bobby Brown,Bobby Brown,Don't Be Cruel,3372
+1988,80,Pet Shop Boys,Pet Shop Boys,Always On My Mind,3373
+1988,81,Brenda Russell feat. Joe Esposito,Brenda Russell,Piano In The Dark,3374
+1988,81,Brenda Russell feat. Joe Esposito,Joe Esposito,Piano In The Dark,3375
+1988,82,Van Halen,Van Halen,When It's Love,3376
+1988,83,Paul Carrack,Paul Carrack,Don't Shed A Tear,3377
+1988,84,Sting,Sting,We'll Be Together,3378
+1988,85,Joan Jett and The Blackhearts,Joan Jett and The Blackhearts,I Hate Myself For Loving You,3379
+1988,86,Foreigner,Foreigner,I Don't Want To Live Without You,3380
+1988,87,Al B. Sure!,Al B. Sure!,Nite And Day,3381
+1988,88,Steve Winwood,Steve Winwood,Don't You Know What The Night Can Do,3382
+1988,89,Whitney Houston,Whitney Houston,One Moment In Time,3383
+1988,90,Gloria Estefan and Miami Sound Machine,Gloria Estefan,Can't Stay Away From You,3384
+1988,90,Gloria Estefan and Miami Sound Machine,Miami Sound Machine,Can't Stay Away From You,3385
+1988,91,George Michael,George Michael,Kissing A Fool,3386
+1988,92,John Cougar Mellancamp,John Cougar Mellancamp,Cherry Bomb,3387
+1988,93,Brenda K. Starr,Brenda K. Starr,I Still Believe,3388
+1988,94,Cher,Cher,I Found Someone,3389
+1988,95,INXS,INXS,Never Tear Us Apart,3390
+1988,96,Steve Windwood,Steve Windwood,Valerie,3391
+1988,97,David Lee Roth,David Lee Roth,Just Like Paradise,3392
+1988,98,Poison,Poison,Nothin' But A Good Time,3393
+1988,99,White Lion,White Lion,Wait,3394
+1988,100,Taylor Dayne,Taylor Dayne,Prove Your Love,3395
+1989,1,Chicago,Chicago,Look Away,3396
+1989,2,Bobby Brown,Bobby Brown,My Prerogative,3397
+1989,3,Poison,Poison,Every Rose Has Its Thorn,3398
+1989,4,Paula Abdul,Paula Abdul,Straight Up,3399
+1989,5,Janet Jackson,Janet Jackson,Miss You Much,3400
+1989,6,Paula Abdul,Paula Abdul,Cold Hearted,3401
+1989,7,Bette Midler,Bette Midler,Wind Beneath My Wings,3402
+1989,8,Milli Vanilli,Milli Vanilli,Girl You Know Its True,3403
+1989,9,Will To Power,Will To Power,"Baby, I Love Your Way-Freebird",3404
+1989,10,Anita Baker,Anita Baker,Giving You The Best That I Got,3405
+1989,11,Richard Marx,Richard Marx,Right Here Waiting,3406
+1989,12,Boy Meets Girl,Boy Meets Girl,Waiting For A Star To Fall,3407
+1989,13,Debbie Gibson,Debbie Gibson,Lost In Your Eyes,3408
+1989,14,Gloria Estefan,Gloria Estefan,Don't Wanna Lose You,3409
+1989,15,Warrant,Warrant,Heaven,3410
+1989,16,Milli Vanilli,Milli Vanilli,Girl I'm Gonna Miss You,3411
+1989,17,Roxette,Roxette,The Look,3412
+1989,18,Fine Young Cannibals,Fine Young Cannibals,She Drives Me Crazy,3413
+1989,19,Bobby Brown,Bobby Brown,On Our Own,3414
+1989,20,Phil Collins,Phil Collins,Two Hearts,3415
+1989,21,Milli Vanilli,Milli Vanilli,Blame It On The Rain,3416
+1989,22,Roxette,Roxette,Listen To Your Heart,3417
+1989,23,Bon Jovi,Bon Jovi,I'll Be There For You,3418
+1989,24,Simply Red,Simply Red,If You Don't Know Be By Now,3419
+1989,25,Madonna,Madonna,Like A Prayer,3420
+1989,26,New Kids On The Block,New Kids On The Block,I'll Be Loving You (Forever),3421
+1989,27,Breathe,Breathe,How Can I Fall?,3422
+1989,28,Milli Vanilli,Milli Vanilli,Baby Don't Forget My Number,3423
+1989,29,Martika,Martika,Toy Solider,3424
+1989,30,Paula Abdul,Paula Abdul,Forever Your Girl,3425
+1989,31,Mike and The Mechanics,Mike and The Mechanics,The Living Years,3426
+1989,32,The Bangles,The Bangles,Eternal Flame,3427
+1989,33,Tone Loc,Tone Loc,Wild Thing,3428
+1989,34,Bad English,Bad English,When I See You Smile,3429
+1989,35,Cher,Cher,If I Could Turn Back Time,3430
+1989,36,Neneh Cherry,Neneh Cherry,Buffalo Stance,3431
+1989,37,Sheriff,Sheriff,When I'm With You,3432
+1989,38,Taylor Dayne,Taylor Dayne,Don't Rush Me,3433
+1989,39,Bon Jovi,Bon Jovi,Born To Be My Baby,3434
+1989,40,Fine Young Cannibals,Fine Young Cannibals,Good Thing,3435
+1989,41,Sheena Easton,Sheena Easton,The Lover In Me,3436
+1989,42,Young M.C.,Young M.C.,Bust A Move,3437
+1989,43,Great White,Great White,"Once Bitten, Twice Shy",3438
+1989,44,Prince,Prince,Batdance,3439
+1989,45,Michael Damian,Michael Damian,Rock On,3440
+1989,46,Jody Watley,Jody Watley,Real Love,3441
+1989,47,B-52's,B-52's,Love Shack,3442
+1989,48,Bobby Brown,Bobby Brown,Every Little Step,3443
+1989,49,New Kids On The Block,New Kids On The Block,Hangin' Tough,3444
+1989,50,Rod Stewart,Rod Stewart,My Heart Can't Tell You No,3445
+1989,51,Love and Rockets,Love and Rockets,So Alive,3446
+1989,52,New Kids On The Block,New Kids On The Block,You Got It (The Right Stuff),3447
+1989,53,Def Leppard,Def Leppard,Armageddon It,3448
+1989,54,Richard Marx,Richard Marx,Satisfied,3449
+1989,55,Madonna,Madonna,Express Yourself,3450
+1989,56,Dino,Dino,I Like It,3451
+1989,57,Donny Osmond,Donny Osmond,Soldier Of Love,3452
+1989,58,Tears For Fears,Tears For Fears,Sowing The Seeds Of Love,3453
+1989,59,Madonna,Madonna,Cherish,3454
+1989,60,White Lion,White Lion,When The Children Cry,3455
+1989,61,Skid Row,Skid Row,18 And Life,3456
+1989,62,Duran Duran,Duran Duran,I Don't Want Your Love,3457
+1989,63,.38 Special,.38 Special,Second Chances,3458
+1989,64,Karyn White,Karyn White,The Way You Love Me,3459
+1989,65,Tone Loc,Tone Loc,Funky Cold Medina,3460
+1989,66,Bangles,Bangles,In Your Room,3461
+1989,67,Natalie Cole,Natalie Cole,Miss You Like Crazy,3462
+1989,68,Cure,Cure,Love Song,3463
+1989,69,Karyn White,Karyn White,Secret Rendesvous,3464
+1989,70,Jeff Healey Band,Jeff Healey Band,Angel Eyes,3465
+1989,71,Guns N' Roses,Guns N' Roses,Patience,3466
+1989,72,Eddie Money,Eddie Money,Walk On Water,3467
+1989,73,New Kids On The Block,New Kids On The Block,Cover Girl,3468
+1989,74,Guns N' Roses,Guns N' Roses,Welcom To The Jungle,3469
+1989,75,Surface,Surface,Shower Me With Your Love,3470
+1989,76,R.E.M.,R.E.M.,Stand,3471
+1989,77,Lita Ford,Lita Ford,Close My Eyes Forever,3472
+1989,78,Tiffany,Tiffany,All This Time,3473
+1989,79,Cher and Peter Cetera,Cher,After All,3474
+1989,79,Cher and Peter Cetera,Peter Cetera,After All,3475
+1989,80,Bobby Brown,Bobby Brown,Roni,3476
+1989,81,Aerosmith,Aerosmith,Love In An Elevator,3477
+1989,82,Bon Jovi,Bon Jovi,Lay Your Hands On Me,3478
+1989,83,When In Rome,When In Rome,This Promise,3479
+1989,84,Edie Brickell and The New Bohemians,Edie Brickell and The New Bohemians,What I Am,3480
+1989,85,Boys Club,Boys Club,I Remember Holding You,3481
+1989,86,Guns N' Roses,Guns N' Roses,Paradise City,3482
+1989,87,Samantha Fox,Samantha Fox,Iwanna Have Some Fun,3483
+1989,88,Rick Astley,Rick Astley,She Wants To Dance With Me,3484
+1989,89,Vanessa Williams,Vanessa Williams,Dreamin',3485
+1989,90,Babyface,Babyface,It's No Crime,3486
+1989,91,Alice Cooper,Alice Cooper,Poison,3487
+1989,92,Donna Summer,Donna Summer,This Time I Know It's For Real,3488
+1989,93,Michael Jackson,Michael Jackson,Smooth Criminal,3489
+1989,94,Deon Estus,Deon Estus,Heavan Help Me,3490
+1989,95,Bobby Brown,Bobby Brown,Rock Wit'cha,3491
+1989,96,Sa-fire,Sa-fire,Thinking Of You,3492
+1989,97,Expose,Expose,What You Don't Know,3493
+1989,98,Ann Wilson and Robin Zander,Ann Wilson,Surrender To Me,3494
+1989,98,Ann Wilson and Robin Zander,Robin Zander,Surrender To Me,3495
+1989,99,Don Henley,Don Henley,The End Of The Innocence,3496
+1989,100,Soul II Soul,Soul II Soul,Keep On Movin',3497
+1990,1,Wilson Phillips,Wilson Phillips,Hold On,3498
+1990,2,Roxette,Roxette,It Must Have Been Love,3499
+1990,3,Sinead O'Connor,Sinead O'Connor,Nothing Compares 2 U,3500
+1990,4,Bell Biv Devoe,Bell Biv Devoe,Poison,3501
+1990,5,Madonna,Madonna,Vogue,3502
+1990,6,Mariah Carey,Mariah Carey,Vision Of Love,3503
+1990,7,Phil Collins,Phil Collins,Another Day In Paradise,3504
+1990,8,En Vogue,En Vogue,Hold On,3505
+1990,9,Billy Idol,Billy Idol,Cradle Of Love,3506
+1990,10,Jon Bon Jovi,Jon Bon Jovi,Blaze Of Glory,3507
+1990,11,Bell Biv Devoe,Bell Biv Devoe,Do Me!,3508
+1990,12,Michael Bolton,Michael Bolton,How Am I Supposed To Live Without You,3509
+1990,13,Technotronic,Technotronic,Pump Up The Jam,3510
+1990,14,Paula Abdul,Paula Abdul,Opposites Attract,3511
+1990,15,Janet Jackson,Janet Jackson,Escapade,3512
+1990,16,Heart,Heart,All I Wanna Do Is Make Love To You,3513
+1990,17,Maxi Priest,Maxi Priest,Close To You,3514
+1990,18,Alannah Myles,Alannah Myles,Black Velvet,3515
+1990,19,Wilson Phillips,Wilson Phillips,Release Me,3516
+1990,20,Linda Ronstadt and Aaron Neville,Linda Ronstadt,Don't Know Much,3517
+1990,20,Linda Ronstadt and Aaron Neville,Aaron Neville,Don't Know Much,3518
+1990,21,Lisa Stansfield,Lisa Stansfield,All Around The World,3519
+1990,22,Calloway,Calloway,I Wanna Be Rich,3520
+1990,23,Johnny Gill,Johnny Gill,Rub You The Right Way,3521
+1990,24,Glenn Medeiros feat. Bobby Brown,Glenn Medeiros,She Ain't Worth It,3522
+1990,24,Glenn Medeiros feat. Bobby Brown,Bobby Brown,She Ain't Worth It,3523
+1990,25,Sweet Sensation,Sweet Sensation,If Wishes Came True,3524
+1990,26,Snap,Snap,The Power,3525
+1990,27,Nelson,Nelson,(Can't Live Without Your) Love And Affection,3526
+1990,28,Taylor Dayne,Taylor Dayne,Love Will Lead You Back,3527
+1990,29,Jane Child,Jane Child,Don't Wanna Fall In Love,3528
+1990,30,Seduction,Seduction,Two To Make It Right,3529
+1990,31,Linear,Linear,Sending All My Love,3530
+1990,32,Poison,Poison,Unskinny Bop,3531
+1990,33,New Kids On The Block,New Kids On The Block,Step By Step,3532
+1990,34,Roxette,Roxette,Dangerous,3533
+1990,35,Billy Joel,Billy Joel,We Didn't Start The Fire,3534
+1990,36,James Ingram,James Ingram,I Don't Have The Heart,3535
+1990,37,Rod Stewart,Rod Stewart,Downtown Train,3536
+1990,38,Janet Jackson,Janet Jackson,Rhythm Nation,3537
+1990,39,Tommy Page,Tommy Page,I'll Be Your Everything,3538
+1990,40,B-52's,B-52's,Roam,3539
+1990,41,Jody Watley,Jody Watley,Everything,3540
+1990,42,Soul II Soul,Soul II Soul,Back to Life (However Do You Want Me),3541
+1990,43,Luther Vandross,Luther Vandross,Here And Now,3542
+1990,44,Janet Jackson,Janet Jackson,Alright,3543
+1990,45,Vanilla Ice,Vanilla Ice,Ice Ice Baby,3544
+1990,46,Milli Vanilli,Milli Vanilli,Blame It On The Rain,3545
+1990,47,M.C. Hammer,M.C. Hammer,Have You Seen Her,3546
+1990,48,Taylor Dayne,Taylor Dayne,With Every Beat Of My Heart,3547
+1990,49,Janet Jackson,Janet Jackson,Come Back To Me,3548
+1990,50,Michel'le,Michel'le,No More Lies,3549
+1990,51,George Michael,George Michael,Praying For Time,3550
+1990,52,Michael Bolton,Michael Bolton,How Can We Be Lovers,3551
+1990,53,Phil Collins,Phil Collins,Do You Remember,3552
+1990,54,After 7,After 7,Ready Or Not,3553
+1990,55,M.C. Hammer,M.C. Hammer,U Can't Touch This,3554
+1990,56,Phil Collins,Phil Collins,I Wish It Would Rain Down,3555
+1990,57,Lou Gramm,Lou Gramm,Just Between You And Me,3556
+1990,58,Phil Collins,Phil Collins,Something Happened On The Way To Heaven,3557
+1990,59,Janet Jackson,Janet Jackson,Black Cat,3558
+1990,60,After 7,After 7,Can't Stop,3559
+1990,61,Aerosmith,Aerosmith,Janie's Got A Gun,3560
+1990,62,Digital Underground,Digital Underground,The Humpty Dance,3561
+1990,63,Taylor Dayne,Taylor Dayne,I'll Be Your Shelter,3562
+1990,64,Tom Petty,Tom Petty,Free Fallin',3563
+1990,65,Pebbles,Pebbles,Giving You The Benefit,3564
+1990,66,Depeche Mode,Depeche Mode,Enjoy The Silence,3565
+1990,67,Tesla,Tesla,Love Song,3566
+1990,68,Bad English,Bad English,Price Of Love,3567
+1990,69,Tyler Collins,Tyler Collins,Girls Nite Out,3568
+1990,70,Go West,Go West,King Of Wishful Thinking,3569
+1990,71,Chicago,Chicago,What Kind Of Man Would I Be?,3570
+1990,72,Skid Row,Skid Row,I Remember You,3571
+1990,73,Technotronic,Technotronic,Get Up! (Before The Night Is Over),3572
+1990,74,Gloria Estefan,Gloria Estefan,Here We Are,3573
+1990,75,Faith No More,Faith No More,Epic,3574
+1990,76,Mariah Carey,Mariah Carey,Love Takes Time,3575
+1990,77,Cher,Cher,Just Like Jesse James,3576
+1990,78,B-52s,B-52s,Love Shack,3577
+1990,79,Milli Vanilli,Milli Vanilli,All Or Nothing,3578
+1990,80,Dino,Dino,Romeo,3579
+1990,81,Black Box,Black Box,Everybody Everybody,3580
+1990,82,Billy Joel,Billy Joel,I Go To Extremes,3581
+1990,83,Babyface,Babyface,Whip Appeal,3582
+1990,84,Paul Young,Paul Young,Oh Girl,3583
+1990,85,D-Mob With Cathy Dennis,D-Mob With Cathy Dennis,C'mon And Get My Love,3584
+1990,86,Paula Abdul,Paula Abdul,(It's Just) The Way That You Love Me,3585
+1990,87,The Cover Girls,The Cover Girls,We Can't Go Wrong,3586
+1990,88,Michael Bolton,Michael Bolton,When I'm Back On My Feet Again,3587
+1990,89,Keith Sweat,Keith Sweat,Make You Sweat,3588
+1990,90,New Kids On The Block,New Kids On The Block,This One's For The Children,3589
+1990,91,Aerosmith,Aerosmith,What It Takes,3590
+1990,92,Kiss,Kiss,Forever,3591
+1990,93,The Time,The Time,Jerk Out,3592
+1990,94,Biz Markie,Biz Markie,Just A Friend,3593
+1990,95,A'me Lorain,A'me Lorain,Whole Wide World,3594
+1990,96,Motley Crue,Motley Crue,Without You,3595
+1990,97,Jive Bunny and The Master Mixers,Jive Bunny and The Master Mixers,Swing The Mood,3596
+1990,98,Prince,Prince,Thieves In The Temple,3597
+1990,99,Mellow Man Ace,Mellow Man Ace,Mentirosa,3598
+1990,100,Kyper,Kyper,Tic-Tac-Toe,3599

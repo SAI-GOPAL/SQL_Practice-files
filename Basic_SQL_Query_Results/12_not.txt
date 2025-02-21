@@ -1,0 +1,67 @@
+year,year_rank,group_name,artist,song_name,id
+2013,1,Macklemore and Ryan Lewis feat. Wanz,Macklemore,Thrift Shop,6334
+2013,1,Macklemore and Ryan Lewis feat. Wanz,Ryan Lewis,Thrift Shop,6335
+2013,1,Macklemore and Ryan Lewis feat. Wanz,Wanz,Thrift Shop,6336
+2013,2,Robin Thicke feat. T.I. and Pharrell,Robin Thicke,Blurred Lines,6337
+2013,2,Robin Thicke feat. T.I. and Pharrell,T.I.,Blurred Lines,6338
+2013,2,Robin Thicke feat. T.I. and Pharrell,Pharrell,Blurred Lines,6339
+2013,6,Justin Timberlake,Justin Timberlake,Mirrors,6345
+2013,9,Florida Georgia Line feat. Nelly,Florida Georgia Line,Cruise,6349
+2013,9,Florida Georgia Line feat. Nelly,Nelly,Cruise,6350
+2013,12,Lumineers,Lumineers,Ho Hey,6353
+2013,14,Daft Punk feat. Pharrell Williams,Daft Punk,Get Lucky,6356
+2013,14,Daft Punk feat. Pharrell Williams,Pharrell Williams,Get Lucky,6357
+2013,16,Taylor Swift,Taylor Swift,I Knew You Were Trouble,6359
+2013,21,Anna Kendrick,Anna Kendrick,Cups (Pitch Perfect's When I'm Gone),6365
+2013,26,Swedish House Mafia feat. John Martin,Swedish House Mafia,Don't You Worry Child,6373
+2013,26,Swedish House Mafia feat. John Martin,John Martin,Don't You Worry Child,6374
+2013,28,Icona Pop feat. Charli XCX,Icona Pop,I Love It,6376
+2013,28,Icona Pop feat. Charli XCX,Charli XCX,I Love It,6377
+2013,34,Drake feat. Majid Jordan,Drake,"Hold On, We're Going Home",6384
+2013,34,Drake feat. Majid Jordan,Majid Jordan,"Hold On, We're Going Home",6385
+2013,36,Pitbull feat. Christina Aguilera,Pitbull,Feel This Moment,6387
+2013,36,Pitbull feat. Christina Aguilera,Christina Aguilera,Feel This Moment,6388
+2013,38,Maroon 5,Maroon 5,One More Night,6390
+2013,39,Lil Wayne feat. Drake and Future,Lil Wayne,Love Me,6391
+2013,39,Lil Wayne feat. Drake and Future,Drake,Love Me,6392
+2013,39,Lil Wayne feat. Drake and Future,Future,Love Me,6393
+2013,41,"A$AP Rocky feat. Drake, 2 Chainz and Kendrick Lamar",A$AP Rocky,F**kin Problems,6395
+2013,41,"A$AP Rocky feat. Drake, 2 Chainz and Kendrick Lamar",Drake,F**kin Problems,6396
+2013,41,"A$AP Rocky feat. Drake, 2 Chainz and Kendrick Lamar",2 Chainz,F**kin Problems,6397
+2013,41,"A$AP Rocky feat. Drake, 2 Chainz and Kendrick Lamar",Kendrick Lamar,F**kin Problems,6398
+2013,44,Calvin Harris feat. Florence Welch,Calvin Harris,Sweet Nothing,6404
+2013,44,Calvin Harris feat. Florence Welch,Florence Welch,Sweet Nothing,6405
+2013,46,Phillip Phillips,Phillip Phillips,Home,6408
+2013,47,Imagine Dragons,Imagine Dragons,It's Time,6409
+2013,48,J. Cole feat. Miguel,J. Cole,Power Trip,6410
+2013,48,J. Cole feat. Miguel,Miguel,Power Trip,6411
+2013,49,Alicia Keys feat. Nicki Minaj,Alicia Keys,Girl On Fire,6412
+2013,49,Alicia Keys feat. Nicki Minaj,Nicki Minaj,Girl On Fire,6413
+2013,51,Maroon 5,Maroon 5,Love Somebody,6415
+2013,53,P!nk,P!nk,Try,6417
+2013,56,Calvin Harris feat. Ellie Goulding,Calvin Harris,I Need Your Love,6420
+2013,56,Calvin Harris feat. Ellie Goulding,Ellie Goulding,I Need Your Love,6421
+2013,57,Ke$ha,Ke$ha,Die Young,6422
+2013,58,fun.,fun.,Some Nights,6423
+2013,60,Blake Shelton feat. Pistol Annies and Friends,Blake Shelton,Boys 'Round Here,6427
+2013,60,Blake Shelton feat. Pistol Annies and Friends,Piston Annies,Boys 'Round Here,6428
+2013,61,Phillip Phillips,Phillip Phillips,"Gone, Gone, Gone",6429
+2013,62,Imagine Dragons,Imagine Dragons,Demons,6430
+2013,64,Flo Rida,Flo Rida,I Cry,6432
+2013,66,Jason Derulo,Jason Derulo,The Other Side,6434
+2013,67,Eminem,Eminem,Berzerk,6435
+2013,70,Rihanna,Rihanna,Pour It Up,6438
+2013,71,Taylor Swift,Taylor Swift,22,6439
+2013,73,Ylvis,Ylvis,The Fox,6441
+2013,74,One Direction,One Direction,Best Song Ever,6442
+2013,80,Blake Shelton,Blake Shelton,Sure Be Cool If You Did,6448
+2013,87,Rocko feat. Future and Rick Ross,Rocko,U.O.E.N.O.,6458
+2013,87,Rocko feat. Future and Rick Ross,Future,U.O.E.N.O.,6459
+2013,87,Rocko feat. Future and Rick Ross,Rick Ross,U.O.E.N.O.,6460
+2013,88,Emeli Sande,Emeli Sande,Next To Me,6461
+2013,90,Thomas Rhett,Thomas Rhett,It Goes Like This,6463
+2013,93,Lady Antebellum,Lady Antebellum,Downtown,6468
+2013,94,Florida Georgia Line,Florida Georgia Line,Get Your Shine On,6469
+2013,97,Passenger,Passenger,Let Her Go,6473
+2013,99,2 Chainz,2 Chainz,I'm Different,6475
+2013,100,Paramore,Paramore,Still Into You,6476

@@ -1,0 +1,9 @@
+-- SQLite
+SELECT year AS "Year",
+       month AS "Month",
+       month_name AS "Month Name",
+       west AS "West",
+       midwest AS "Midwest",
+       south AS "South",
+       northeast AS "Northeast"
+  FROM housing_data limit 5

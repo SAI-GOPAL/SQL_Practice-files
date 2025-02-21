@@ -1,0 +1,4 @@
+year,year_rank,group_name,artist,song_name,id
+1973,98,Albert Hammond,Albert Hammond,It Never Rains In Southern California,1820
+1977,19,Eagles,Eagles,Hotel California,2151
+1996,17,2Pac,2Pac,How Do U Want It / California Love,4133
