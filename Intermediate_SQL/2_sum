@@ -1,0 +1,4 @@
+-- SQLite
+-- Write a query to calculate the average opening price (hint: you will need to use both COUNT and SUM, as well as some simple arithmetic.).
+
+select sum(open) / count(open) as average_opening_price from stock_data

@@ -1,0 +1,2 @@
+-- Write a query that separately counts the number of unique values in the month column and the number of unique values in the `year` column.
+select  COUNT(distinct MONTH) as Month_Count,count(distinct YEAR) as Year_Count from tutorial.aapl_historical_stock_price

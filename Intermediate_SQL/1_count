@@ -1,0 +1,3 @@
+-- SQLite
+-- Write a query to count the number of non-null rows in the low column.
+select count(low) from stock_data where low <>'';

@@ -1,0 +1,2 @@
+average_opening_price
+164.779361762214

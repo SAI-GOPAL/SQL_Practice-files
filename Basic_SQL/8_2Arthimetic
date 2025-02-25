@@ -1,2 +1,15 @@
 -- SQLite
 -- Write a query that calculates the percentage of all houses completed in the United States represented by each region. Only return results from the year 2000 and later.
+
+SELECT 
+year,
+month,
+month_name,
+south/south+west+midwest+northeast as south_percentage,
+
+west/south+west+midwest+northeast as west_percentage,
+
+midwest/south+west+midwest+northeast as midwest_percentage,
+
+northeast/south+west+midwest+northeast as northeast_percentage
+from housing_data where year>=2000;

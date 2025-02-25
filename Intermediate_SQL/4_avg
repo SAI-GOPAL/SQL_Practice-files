@@ -1,0 +1,2 @@
+-- SQLite
+select avg(volume) as average_daily_volume from stock_data

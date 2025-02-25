@@ -1,0 +1,4 @@
+-- SQLite
+-- What was Apple's lowest stock price (at the time of this data collection)?
+
+select min(low) as lowest_price from stock_data;

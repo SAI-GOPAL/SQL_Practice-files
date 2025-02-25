@@ -1,0 +1,4 @@
+-- SQLite
+--What was the highest single-day increase in Apple's share value?
+
+select max(close - open) as highest_increase from stock_data

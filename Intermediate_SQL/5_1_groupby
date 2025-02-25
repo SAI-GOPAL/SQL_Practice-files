@@ -1,0 +1,4 @@
+-- SQLite
+-- Calculate the total number of shares traded each month. Order your results chronologically.
+
+select year,month,sum(volume) no_shares from stock_data group by year,month order by year,month;

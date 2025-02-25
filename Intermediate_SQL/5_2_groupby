@@ -1,0 +1,7 @@
+-- SQLite
+select 
+year,
+avg(close-open) as avg_daily_change
+from stock_data
+group by year
+order by year

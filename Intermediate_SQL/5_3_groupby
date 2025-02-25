@@ -1,0 +1,3 @@
+select year,month,min(low) as lowest,max(high) as highest from stock_data
+group by year,month
+order by year,month;

@@ -1,0 +1,5 @@
+-- SQLite
+select *,case when state='CA' then 'yes'
+else 'no' end as is_ca
+ from players
+ order by is_ca desc;
