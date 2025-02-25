@@ -1,1 +1,1 @@
-This Repo Contains SQL Pratice Answers from Mode website
+This Repo Contains SQL Practice Answers from Mode website
